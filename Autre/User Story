@@ -1,0 +1,67 @@
+User 0 :
+
+Intégration de l'API Google :
+
+- API Java de Google Map
+
+- Attaquer par quel service (JSON)
+
+- Récupérer la position GPS
+
+- Envoyé une requête "Garage à proximité"
+
+- Récupérer des résultats
+
+User Story 1
+
+Lister les résultats :
+
+- Nom Garage
+
+- Adresse
+
+- Photo
+
+- Avis
+
+- Téléphone
+
+- Horaire
+
+User Story 2
+
+Filtrer les résultats par rapport à la distance du garage.
+
+User Story 3
+
+Création d'un module pour permettre à l'utilisateur de filtrer les résultats par rapport aux avis ou par rapport aux temps d'intervention.
+
+User Story 4
+
+Création d'un questionnaire pour l'utilisateur pour identifier au mieux le problème du véhicule.
+
+User Story 5
+
+Reception des résultat par le garagiste que l'utilisateur est choisi.
+
+User Story 6
+
+Acceptation ou refus de l'intervention du garagiste.
+
+User Story 7
+
+Envoie de l'avis ou du refus du garagiste à l'utilisateur.
+
+User Story 8
+
+Donne un récapitulatif de l'intervention si celui-ci fût acceptée :
+
+Le temps de l'intervention
+
+Une fourchette du prix de l'intervention
+
+Une carte localisant le lieu de notre voiture et le lieu du garagiste en temps réel.
+
+User Story 9
+
+Donner un avis sur l'intervention.
