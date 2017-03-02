@@ -12,15 +12,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_a8352bf46d1d362968da4a5912cbde06ce6145b0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -39,12 +30,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_8a13b3bdfb4046a2f7409370032f9f27a78e5773/classes.dex" />
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.2.0_c6459ce947ec5d6675d889d7c79d347fa0083685/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -93,6 +84,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.2.0_1954a133ab2986ca9b0fa5110097ce027a0468ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -120,12 +120,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_edfe62d889f4c31e27b55fbe8256aa74db172e9f/classes.dex" />
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_0236325283dc00059ef9e3cdb6d696396173cf3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_2df53799dd3d9b80c3e7c2e0d9c0433acce88a1d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -135,15 +144,6 @@
         revision="25.0.2"
         sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_0239fcdd5c376202e55876924cf637961c5c0c11/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_9a5db56dba8091ff4b4c3df387576be130ddb2f0/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -174,6 +174,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_558bbd3836b14d7a9df8e15874cd0f53d1b26308/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -183,12 +192,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_5c58efa96d82228b3b6254e0f81b3e85e2b610d6/classes.dex" />
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_dc55084aa0d94e15d45041f457e3d34716488d88/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -198,15 +207,6 @@
         revision="25.0.2"
         sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.0_4fe3823161c158860756935b8caeb94128cf7daf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_b3267f1b39ce967c35738d2d6498a12408b6a95a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -259,8 +259,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d183371b344ffbb44dd34dad66a8585b05016e55">
+        sha1="8358d6e8d5d8147279a6b46636800e5e4b9b248a">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dfc50b9b77d24cba7945388ad50cc7215f7184de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_d836d042e8b8b01a9d0fcb8bc614229aea43305c/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -270,6 +279,24 @@
         revision="25.0.2"
         sha1="734e80dffea7bd76c18ae256822a124c30d85850">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_fae4b6a4687b409b8aaed434afa2b6a14053e4a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_af9c138f2ba179139f5f5a187ae6fc0c9aba548c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_6b6cfb00188533a1e86c944563100c5f239c1ad5/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -291,21 +318,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_6a15c2bcd2c9ddc082695678dc0f7cac8ae8aba1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.0_11e6ad3fe0ac513640d53e0703485959eb02133f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_5a226af838f05aca9a17a70758bbd31913c48fa7/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -336,15 +363,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_9f02b200cabe373921f038f0a41c18118e8eb93e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -369,6 +387,15 @@
         revision="25.0.2"
         sha1="0e301f24b283f14b564f660c9abe863af6be5896">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.0_49d78600ab2f41f5c3ddc8f377e375ae047b45c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_0c91669d7433cdb9dcb88df5974cf9abb791a4f9/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -462,15 +489,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_3a8c98b69e9f6f4030d0f4e3ca6441553569639a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -511,8 +529,26 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="19fb22a259d9b738f8e07e87af3e8e840a199d76">
+        sha1="b201b27c6390e063618b6a6721c8af1ab20b5d93">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d4338d0aa5943797f7febfb894081f2f6134f39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_d675b96d88613af6e56e14c397c37be2384014d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_c34beee7990ffbabd70603c878c7addf3f2108aa/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -540,15 +576,6 @@
         revision="25.0.2"
         sha1="48532a016bb0dfbe7970c147ce784598a515406b">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.0_d1fad035ff6cdc6fe81148ff99576e739436105b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_0dfbc2b4c84e9f7c67478baefe5ef2378bad04d9/classes.dex" />
     </item>
     <item
         is-multidex="true"

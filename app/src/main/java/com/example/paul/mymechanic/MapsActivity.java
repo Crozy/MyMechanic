@@ -5,7 +5,10 @@ import android.Manifest;
 import android.app.Dialog;
 import android.content.DialogInterface;
 import android.content.pm.PackageManager;
+import android.location.Location;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.DialogFragment;
 import android.support.v4.app.FragmentActivity;
@@ -15,9 +18,11 @@ import android.util.Log;
 import android.widget.Toast;
 
 
+import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.drive.Drive;
 import com.google.android.gms.location.LocationServices;
+import com.google.android.gms.location.places.Places;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
@@ -25,7 +30,9 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
-public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
+import java.text.CollationElementIterator;
+
+public class MapsActivity extends FragmentActivity implements OnMapReadyCallback, GoogleApiClient.OnConnectionFailedListener, GoogleApiClient.ConnectionCallbacks {
 
     private GoogleMap mMap;
     private GoogleApiClient mGoogleApiClient;
@@ -35,13 +42,29 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         super.onCreate(savedInstanceState);
 
-       // if (mGoogleApiClient == null) {
-       //     mGoogleApiClient = new GoogleApiClient.Builder(this)
-       //             .addConnectionCallbacks(this)
-       //             .addOnConnectionFailedListener(this)
-       //             .addApi(LocationServices.API)
-       //             .build();
-       // }
+
+        if (mGoogleApiClient == null) {
+            mGoogleApiClient = new GoogleApiClient.Builder(this)
+                    .addConnectionCallbacks(this)
+                    .addOnConnectionFailedListener(this)
+                    .addApi(LocationServices.API)
+                    .addApi(Places.GEO_DATA_API)
+                    .addApi(Places.PLACE_DETECTION_API)
+                    .build();
+        }
+
+//        mGoogleApiClient = new GoogleApiClient.Builder(this)
+//                .enableAutoManage(this /* FragmentActivity */,
+//                        this /* OnConnectionFailedListener */)
+//                .addApi(LocationServices.API)
+//                //.addScope(Drive.SCOPE_FILE)
+//                .build();
+
+//        if (mGoogleApiClient == null) {
+//            mGoogleApiClient = new GoogleApiClient.Builder(this)
+//                    .addApi(LocationServices.API)
+//                    .build();
+//        }
 
         setContentView(R.layout.activity_maps);
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
@@ -50,6 +73,18 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mapFragment.getMapAsync(this);
 
     }
+
+    protected void onStart() {
+        mGoogleApiClient.connect();
+        super.onStart();
+    }
+
+    protected void onStop() {
+        mGoogleApiClient.disconnect();
+        super.onStop();
+    }
+
+
 
 
 
@@ -100,7 +135,35 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         }
     }
 
-   // @Override
+    @Override
+    public void onConnectionFailed(@NonNull ConnectionResult connectionResult) {
+
+        System.out.print("Oula nan");
+    }
+
+    @Override
+    public void onConnected(@Nullable Bundle bundle) {
+        System.out.print("NIQUEL");
+
+        if (ContextCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION)
+                == PackageManager.PERMISSION_GRANTED) {
+            Location mLastLocation = LocationServices.FusedLocationApi.getLastLocation(
+                    mGoogleApiClient);
+            if (mLastLocation != null) {
+                System.out.print("Latitude : " + String.valueOf(mLastLocation.getLatitude()));
+                System.out.print("Longitude : " + String.valueOf(mLastLocation.getLongitude()));
+            }
+        }
+
+
+    }
+
+    @Override
+    public void onConnectionSuspended(int i) {
+        System.out.print("Suspendu");
+    }
+
+    // @Override
     //public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
       //  if (requestCode == MY_LOCATION_REQUEST_CODE) {
         //    if (permissions.length == 1 &&
