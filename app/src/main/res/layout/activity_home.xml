@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.example.paul.mymechanic.Home">
+    tools:context="com.example.paul.mymechanic.Home"
+    app:layout_collapseParallaxMultiplier="0.0">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -13,7 +14,6 @@
         android:theme="@style/AppTheme.AppBarOverlay">
 
         <android.support.v7.widget.Toolbar
-            android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="?attr/colorPrimary"
@@ -21,14 +21,22 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <include layout="@layout/content_home" />
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="175dp"
+        android:layout_height="131dp"
+        android:layout_marginLeft="300px"
+        android:layout_marginTop="800px"
+        android:paddingBottom="50px"
+        android:text="Recherche de garage" />
 
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom|end"
-        android:layout_margin="@dimen/fab_margin"
-        app:srcCompat="@android:drawable/ic_dialog_email" />
+    <TextView
+        android:text="MyMechanic"
+        android:id="@+id/textView"
+        android:layout_marginTop="600px"
+        android:layout_marginLeft="250px"
+        android:layout_width="233dp"
+        android:layout_height="200px"
+        android:textSize="36sp" />
 
 </android.support.design.widget.CoordinatorLayout>

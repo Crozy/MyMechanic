@@ -1,22 +1,22 @@
 [
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action_tombstone.xml"
+        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_icon_group.xml"
+        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
-        "source": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.0/res/layout-v21/place_autocomplete_fragment.xml"
+        "source": "/home/paul/.android/build-cache/8976b579d53f5a07f27a82fe470e56a48db8218a/output/res/layout-v21/place_autocomplete_fragment.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_custom_big.xml"
+        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action.xml"
+        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/layout-v21/notification_action.xml"
     }
 ]

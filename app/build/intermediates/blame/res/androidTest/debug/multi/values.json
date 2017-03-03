@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/res/values/values.xml",
+                    "file": "/home/paul/.android/build-cache/abc4a3b4133c82cdbc6664b7d8ca2e4ad974f78b/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

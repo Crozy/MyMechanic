@@ -117,9 +117,18 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap = googleMap;
 
         // Add a marker in Sydney and move the camera
-        LatLng sydney = new LatLng(-34, 151);
-        mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
-        mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+        LatLng garage01 = new LatLng(48.8618408, 2.475131000000033);
+        LatLng garage02 = new LatLng(48.8673028, 2.4697986999999557);
+        LatLng garage03 = new LatLng(48.8724459, 2.470011500000055);
+        LatLng garage04 = new LatLng(48.876678, 2.4657311999999365);
+        LatLng IUT = new LatLng(48.862381, 2.4644080000000486);
+
+        mMap.addMarker(new MarkerOptions().position(garage01).title("Garage D.m.k"));
+        mMap.addMarker(new MarkerOptions().position(garage02).title("Garage Du Parc"));
+        mMap.addMarker(new MarkerOptions().position(garage03).title("Garage Du Fort"));
+        mMap.addMarker(new MarkerOptions().position(garage04).title("212 Boulevard de la Boissière"));
+
+       mMap.moveCamera(CameraUpdateFactory.newLatLng(IUT));
 
         if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
                 == PackageManager.PERMISSION_GRANTED) {
@@ -127,6 +136,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             Log.d("MapsActivity", "oui");
             System.out.print("OUI");
            //mMap.OnMyLocationButtonClickListener();
+ //           mMap.moveCamera(CameraUpdateFactory.newLatLng(mMap.OnMyLocationButtonClick()));
         } else {
             System.out.print("NON");
 

@@ -2,4 +2,6 @@
     <string name="app_name">MyMechanic</string>
     <string name="title_activity_maps">MapMyMechanic</string>
     <string name="title_activity_garage_search">GarageSearchActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_home">Home</string>
 </resources>
