@@ -3,24 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/home/paul/.android/build-cache/9ec404dddbb95ac64acec111e4ab2c8f46afb717/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b141b49cdcc3b0be4a625c9a52ba7eebcddf5927/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paul/.android/build-cache/a067d7834ce92bb9741990111663d43c7f6ea110/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd59f0eed4d5c763d10acf83da812daed4dabc04/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/paul/.android/build-cache/dcb6b5e43bde9e4dcc6a94a3f67d87b4666264d8/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -36,6 +18,33 @@
         revision="25.0.2"
         sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f36713d9633b87a0225dbb6f1340b3c82d2cee3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/.android/build-cache/cbc8dafb938af9419d060bdadbf0d46e33b74f9b/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_1aef1bd260782bb8905ee216767b2e5999082eb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/.android/build-cache/7adf920d5a84778f8d7a68756dda2497bb0d9cc9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_904c810fc79b123e6808afa7596a701499772082/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/.android/build-cache/0cebd50fc0b516b4004b2d382fc0ef58f96abc55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2367cc28f3f3f56a31ee9e58ae656fca17623ab/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,12 +75,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/.android/build-cache/9c24a4dd682b3aafb0217ec05eff5e117e81cf56/output/jars/classes.jar"
+        jar="/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b7d479bc5d73003907ea3acf4ae9f985dca90b7/classes.dex" />
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b79e8475648e82bd1cb82feecbb0bcf0b67641b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -129,15 +138,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/.android/build-cache/802a4260698fbc9f399d9fc7a2077bd7cc2422fa/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_517a3a8fadb0e8b3281113ca68a6dfd741ffbb9a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/paul/.android/build-cache/8cc41895e399dcfc35536c689109f2a19b6b6691/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -165,6 +165,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/paul/.android/build-cache/f36b572fca7bfac752ddda645ec7818c0cf96f03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a1f76921970bf03db055cca0becf35508d1a563/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/.android/build-cache/cbc8dafb938af9419d060bdadbf0d46e33b74f9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6569c5c8f92c45ad5ca552b5b9bf348e41310572/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/paul/.android/build-cache/29471d651780d2e66f47b9073e00d8150147bb25/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -183,6 +201,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/paul/.android/build-cache/7da3cc6fa8905bd02b9745e269c2807b7dd2fd42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c93d9e2caa68435627beffc50b498bdf03e5a3e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/.android/build-cache/39c3f319f4dc97f59e0d3bd7b9bdb84fecef787b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_309e5338f708273561d480e6873fa21d252632b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/paul/.android/build-cache/5febabe4810a2533afd2f42e49f9ccc541cb7f6f/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -198,6 +234,15 @@
         revision="25.0.2"
         sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fce7f0b646525a565ea2021ed0c23260ee676430/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/.android/build-cache/c7f3efc79e6cc15431c578428dab06343433ab8b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1aeaaa08884dbf6a775017dfc21d8194a5249cb/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -237,21 +282,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/.android/build-cache/aa0e340f3ca33bbfc7fe10fd157d9c0881422006/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eeff28117e8066137274f463609d369ee223b5b4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/paul/.android/build-cache/81d9a9cdc8d37420b5e0519d3c65ad53080e210c/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3f4483afd050f3be12db7838422309446a45daa1">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9e2a55f2aaa086e9a976e23f13ce4792f28a61a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/.android/build-cache/837292c14320d03476a107b227badb590e096e84/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9141bac8c9db49c67fb78451186ada6fb20d32d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -282,6 +327,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/paul/.android/build-cache/2ddc4976f6ad70547b8c81f571ec8a9b5a8dc177/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd1aaac1d41558e6b17bdd54108decbae1328dbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/paul/.android/build-cache/68ed3cbfa933148cee2f103b09cdbf61ae0a71e3/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -309,30 +363,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/.android/build-cache/66be4bced951b84b78a8a8738415969f924dfb70/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62a7693e7d1fffba6bf99d00a6f5ced80311b37f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/paul/.android/build-cache/b646a610d6a55a1fb84e84fdff8715870eb84d74/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4210260dea3b8c433cc860da9f84be24f606a17f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paul/.android/build-cache/2204f94d2bdfc639d2cd878c6cf312429e45ee93/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_006499d2ac7c0a4f50f60772038f6f2c3cdec310/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -354,12 +390,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/.android/build-cache/19784d4f05a931a972cbd4a1cc72481bfa77ac9f/output/jars/classes.jar"
+        jar="/home/paul/.android/build-cache/ac4d3b3973f3bc1f4941a7b0fc9637b536d6b435/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2690b8fb89fe003f756bbf7669a17d1ae0fb3be0/classes.dex" />
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_157978cb7bec79a6ce966da41ecbaa1ed55cf926/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -381,15 +417,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06983870d1e71c8cb853134307c7f2ed58250a80/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/paul/.android/build-cache/5b98ad8ba669cd8a44ca43ca9c0d5ed0ad62b476/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -408,12 +435,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/.android/build-cache/8bdac4a46ca945c5537a0909a7627798346b3d0a/output/jars/classes.jar"
+        jar="/home/paul/.android/build-cache/d237e3f4e6e4aa3b9e0921c9bae5e88c861e52ed/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e51c2f662bb72419632af5192553c37e33890a99">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea964dde0660b02457073a2cb259b3c0bbc205fe/classes.dex" />
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e68ef94d3a6e72958653c098152fc5ca4589ab1/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -421,8 +448,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f02b4d01f0f93bcee9eba306450ce1e987c7a67c">
+        sha1="a94914b9ed68ac183b2856fb4d2ed8abc01a4076">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7d4338d0aa5943797f7febfb894081f2f6134f39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/.android/build-cache/d2e67143d7dc95934277fda4f1fa46f94595f5e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f813373f234c42fc3604225d04408b1fa66c9d99/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -435,21 +471,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/paul/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_02ffeb2d19bf7e1714eaf5848d916ff8ecfc5d4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paul/.android/build-cache/35494158fe659cf3f146b7cfacd43729edc33896/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b54b9d36c2680625a65b6db59074d5262caa9ed8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/paul/.android/build-cache/87814ef552ee47a9cf910e963d0d9b8c6ce09895/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="b831d3902674d096189451d46fce219e2c2904b7">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f295f833165e14eea3d1b4ecf8a8aedad6d6760/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paul/.android/build-cache/9ec404dddbb95ac64acec111e4ab2c8f46afb717/output/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_2b2bba085d7014211170af9d94feb89fd11fba6e/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -468,15 +513,6 @@
         revision="25.0.2"
         sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15dbaecbc47fad60d8842e1131a2f6e0b60087fe/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paul/.android/build-cache/6ab3e0d93b7ba5c91193aa055cab00f3a238fb92/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_771fd3037eaa309f9c82d3c08e29339800980b80/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -504,15 +540,6 @@
         revision="25.0.2"
         sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
         <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_832383f43e77ee55f9c302234510a1592065d2e7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paul/.android/build-cache/c15ca97dca59069e7b08dd4754f88126e0f942ad/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bef3d6d45b0fa59ec5d8f0d2a16b7a102453ef1/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -579,21 +606,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/paul/.android/build-cache/6c7527bcce69a657c8f9ba101bddf7c7d3af1701/output/jars/classes.jar"
+        jar="/home/paul/.android/build-cache/e0a1a0eaf38aab4193d79eda42891774323a43cf/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9d514beda4f0a149401a04c599e3e8e2085c273/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paul/.android/build-cache/e7b4b8298fbb376d99ba9ae441915071c8317b50/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_857eab72141d7c2e13dcd7ba5c6718dd35cfa638/classes.dex" />
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c8f3599d538e6916ca19b96e9c3b656fc0b1cb7/classes.dex" />
     </item>
 
 </items>

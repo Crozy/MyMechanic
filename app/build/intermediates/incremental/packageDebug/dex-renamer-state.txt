@@ -1,7 +1,7 @@
-#Fri Mar 03 16:14:49 CET 2017
+#Sat Mar 18 11:44:45 CET 2017
 base.0=/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7d4338d0aa5943797f7febfb894081f2f6134f39
-renamed.1=classes2.dex
-renamed.0=classes.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
 file.1=/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dfc50b9b77d24cba7945388ad50cc7215f7184de/classes.dex
 base.1=/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dfc50b9b77d24cba7945388ad50cc7215f7184de
 file.0=/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7d4338d0aa5943797f7febfb894081f2f6134f39/classes.dex

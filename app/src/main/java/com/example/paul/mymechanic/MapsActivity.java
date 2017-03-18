@@ -4,6 +4,7 @@ import android.*;
 import android.Manifest;
 import android.app.Dialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.net.Uri;
@@ -32,6 +33,7 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 import java.text.CollationElementIterator;
@@ -121,14 +123,32 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         LatLng garage02 = new LatLng(48.8673028, 2.4697986999999557);
         LatLng garage03 = new LatLng(48.8724459, 2.470011500000055);
         LatLng garage04 = new LatLng(48.876678, 2.4657311999999365);
-        LatLng IUT = new LatLng(48.862381, 2.4644080000000486);
+        LatLng Paris = new LatLng(48.8588871, 2.294486099999972);
 
-        mMap.addMarker(new MarkerOptions().position(garage01).title("Garage D.m.k"));
-        mMap.addMarker(new MarkerOptions().position(garage02).title("Garage Du Parc"));
-        mMap.addMarker(new MarkerOptions().position(garage03).title("Garage Du Fort"));
-        mMap.addMarker(new MarkerOptions().position(garage04).title("212 Boulevard de la Boissière"));
 
-       mMap.moveCamera(CameraUpdateFactory.newLatLng(IUT));
+
+        mMap.addMarker(new MarkerOptions().position(garage01)
+                .title("Garage D.m.k"))
+                .setSnippet("Note : 4/5 \n Avis1 \n Avis2 \n Avis3");
+
+//        Marker position01 = mMap.addMarker(new MarkerOptions()
+//                .position(new LatLng(48.8618408, 2.475131000000033))
+//                .title("San Francisco")
+//                .snippet("Population: 776733"));
+
+       //mMap.setOnMarkerClickListener(position01.getPosition());
+
+        mMap.addMarker(new MarkerOptions().position(garage02)
+                .title("Garage Du Parc"))
+                .setSnippet("Note : 3/5");
+        mMap.addMarker(new MarkerOptions().position(garage03)
+                .title("Garage Du Fort"))
+                .setSnippet("Note : 4.8/5");
+        mMap.addMarker(new MarkerOptions().position(garage04)
+                .title("Garage du Coin"))
+                .setSnippet("Note : 3.9/5");
+
+       //mMap.moveCamera(CameraUpdateFactory.newLatLng(Paris));
 
         if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
                 == PackageManager.PERMISSION_GRANTED) {
@@ -153,6 +173,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                     permissions[0] == Manifest.permission.ACCESS_FINE_LOCATION &&
                     grantResults[0] == PackageManager.PERMISSION_GRANTED) {
                 mMap.setMyLocationEnabled(true);
+
+
             } else {
                 // Permission was denied. Display an error message.
             }
@@ -214,5 +236,11 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 // Permission was denied. Display an error message.
            // }
         // }
+
+    public void RetourAccueil()
+    {
+        Intent intent = new Intent(MapsActivity.this, Home.class);
+        startActivity(intent);
+    }
 
 }

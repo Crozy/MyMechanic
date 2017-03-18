@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:2:1-72:12
+ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:2:1-87:12
 	package
 		ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManif
 	android:name
 		ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:11:22-76
 application
-ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:13:5-70:19
+ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:13:5-85:19
 MERGED from [com.google.android.gms:play-services:10.2.0] /home/paul/.android/build-cache/b5d6e7425f86387ca042da9244798e77c02fba58/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/paul/.android/build-cache/be098866e0e2bce64db98a7bc02851fc69f8f29b/output/AndroidManifest.xml:23:5-27:19
 MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/paul/.android/build-cache/dd284c19966e8d5c95acfc6944d202538b56cb63/output/AndroidManifest.xml:26:5-19
@@ -26,8 +26,8 @@ MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/paul/.
 MERGED from [com.google.android.gms:play-services-auth:10.2.0] /home/paul/.android/build-cache/87814ef552ee47a9cf910e963d0d9b8c6ce09895/output/AndroidManifest.xml:19:5-25:19
 MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/paul/.android/build-cache/c4f18d9edc9ab2e52235625d59675ff9e14f14f7/output/AndroidManifest.xml:4:5-8:19
 MERGED from [com.google.android.gms:play-services-cast:10.2.0] /home/paul/.android/build-cache/721f2ab6d4c820d55a891fe9f3a6a5a4fe0d1b3a/output/AndroidManifest.xml:18:5-19
-MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/paul/.android/build-cache/9ec404dddbb95ac64acec111e4ab2c8f46afb717/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:24.0.0] /home/paul/.android/build-cache/19784d4f05a931a972cbd4a1cc72481bfa77ac9f/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/paul/.android/build-cache/cbc8dafb938af9419d060bdadbf0d46e33b74f9b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /home/paul/.android/build-cache/0cebd50fc0b516b4004b2d382fc0ef58f96abc55/output/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /home/paul/.android/build-cache/81d9a9cdc8d37420b5e0519d3c65ad53080e210c/output/AndroidManifest.xml:18:5-19
 MERGED from [com.google.firebase:firebase-config:10.2.0] /home/paul/.android/build-cache/4074454909806fac3677ce16a751e6c8d2a4dd1e/output/AndroidManifest.xml:18:5-19
 MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /home/paul/.android/build-cache/29471d651780d2e66f47b9073e00d8150147bb25/output/AndroidManifest.xml:18:5-19
@@ -61,17 +61,18 @@ MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /home/paul/.a
 MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/paul/.android/build-cache/5fb6ab59590991cc2ba555b8abf9aa92835f4e6f/output/AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/paul/.android/build-cache/66ea0897c767292f6ff411f29c638ab1d744bff9/output/AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/paul/.android/build-cache/ec0907c57fface17e8043fe1be4276960ecaef96/output/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:design:25.2.0] /home/paul/.android/build-cache/6c7527bcce69a657c8f9ba101bddf7c7d3af1701/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.2.0] /home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/paul/.android/build-cache/e7b4b8298fbb376d99ba9ae441915071c8317b50/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/paul/.android/build-cache/9c24a4dd682b3aafb0217ec05eff5e117e81cf56/output/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.2.0] /home/paul/.android/build-cache/8bdac4a46ca945c5537a0909a7627798346b3d0a/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.2.0] /home/paul/.android/build-cache/802a4260698fbc9f399d9fc7a2077bd7cc2422fa/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] /home/paul/.android/build-cache/aa0e340f3ca33bbfc7fe10fd157d9c0881422006/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] /home/paul/.android/build-cache/a067d7834ce92bb9741990111663d43c7f6ea110/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] /home/paul/.android/build-cache/6ab3e0d93b7ba5c91193aa055cab00f3a238fb92/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] /home/paul/.android/build-cache/66be4bced951b84b78a8a8738415969f924dfb70/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] /home/paul/.android/build-cache/c15ca97dca59069e7b08dd4754f88126e0f942ad/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /home/paul/.android/build-cache/35494158fe659cf3f146b7cfacd43729edc33896/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/paul/.android/build-cache/d2e67143d7dc95934277fda4f1fa46f94595f5e1/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/paul/.android/build-cache/f36b572fca7bfac752ddda645ec7818c0cf96f03/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/paul/.android/build-cache/e0a1a0eaf38aab4193d79eda42891774323a43cf/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/paul/.android/build-cache/2ddc4976f6ad70547b8c81f571ec8a9b5a8dc177/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/paul/.android/build-cache/39c3f319f4dc97f59e0d3bd7b9bdb84fecef787b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/paul/.android/build-cache/837292c14320d03476a107b227badb590e096e84/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/paul/.android/build-cache/7da3cc6fa8905bd02b9745e269c2807b7dd2fd42/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/paul/.android/build-cache/ac4d3b3973f3bc1f4941a7b0fc9637b536d6b435/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/paul/.android/build-cache/d237e3f4e6e4aa3b9e0921c9bae5e88c861e52ed/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/paul/.android/build-cache/c7f3efc79e6cc15431c578428dab06343433ab8b/output/AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:16:9-41
 	android:supportsRtl
@@ -113,12 +114,24 @@ ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManif
 	android:name
 		ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:56:13-33
 meta-data#com.google.android.gms.version
-ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:66:9-68:69
+ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:69:9-71:69
 MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/paul/.android/build-cache/ec0907c57fface17e8043fe1be4276960ecaef96/output/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:68:13-66
+		ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:71:13-66
 	android:name
-		ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:67:13-58
+		ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:70:13-58
+activity#com.example.paul.mymechanic.Questionnaire
+ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:73:9-83:20
+	android:label
+		ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:75:13-56
+	android:theme
+		ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:76:13-56
+	android:name
+		ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:74:13-42
+activity#com.example.paul.mymechanic.Questionnaire2
+ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:84:9-61
+	android:name
+		ADDED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml:84:19-49
 uses-sdk
 INJECTED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.android.gms:play-services:10.2.0] /home/paul/.android/build-cache/b5d6e7425f86387ca042da9244798e77c02fba58/output/AndroidManifest.xml:4:5-43
@@ -130,8 +143,8 @@ MERGED from [com.google.android.gms:play-services-auth:10.2.0] /home/paul/.andro
 MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] /home/paul/.android/build-cache/68ed3cbfa933148cee2f103b09cdbf61ae0a71e3/output/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/paul/.android/build-cache/c4f18d9edc9ab2e52235625d59675ff9e14f14f7/output/AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-cast:10.2.0] /home/paul/.android/build-cache/721f2ab6d4c820d55a891fe9f3a6a5a4fe0d1b3a/output/AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/paul/.android/build-cache/9ec404dddbb95ac64acec111e4ab2c8f46afb717/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:24.0.0] /home/paul/.android/build-cache/19784d4f05a931a972cbd4a1cc72481bfa77ac9f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/paul/.android/build-cache/cbc8dafb938af9419d060bdadbf0d46e33b74f9b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /home/paul/.android/build-cache/0cebd50fc0b516b4004b2d382fc0ef58f96abc55/output/AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /home/paul/.android/build-cache/81d9a9cdc8d37420b5e0519d3c65ad53080e210c/output/AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-config:10.2.0] /home/paul/.android/build-cache/4074454909806fac3677ce16a751e6c8d2a4dd1e/output/AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /home/paul/.android/build-cache/29471d651780d2e66f47b9073e00d8150147bb25/output/AndroidManifest.xml:17:5-43
@@ -172,20 +185,21 @@ MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /home/paul/.a
 MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/paul/.android/build-cache/5fb6ab59590991cc2ba555b8abf9aa92835f4e6f/output/AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/paul/.android/build-cache/66ea0897c767292f6ff411f29c638ab1d744bff9/output/AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/paul/.android/build-cache/ec0907c57fface17e8043fe1be4276960ecaef96/output/AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:design:25.2.0] /home/paul/.android/build-cache/6c7527bcce69a657c8f9ba101bddf7c7d3af1701/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.2.0] /home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/paul/.android/build-cache/e7b4b8298fbb376d99ba9ae441915071c8317b50/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/paul/.android/build-cache/9c24a4dd682b3aafb0217ec05eff5e117e81cf56/output/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/paul/.android/build-cache/2204f94d2bdfc639d2cd878c6cf312429e45ee93/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.2.0] /home/paul/.android/build-cache/8bdac4a46ca945c5537a0909a7627798346b3d0a/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.2.0] /home/paul/.android/build-cache/802a4260698fbc9f399d9fc7a2077bd7cc2422fa/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.2.0] /home/paul/.android/build-cache/aa0e340f3ca33bbfc7fe10fd157d9c0881422006/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.2.0] /home/paul/.android/build-cache/a067d7834ce92bb9741990111663d43c7f6ea110/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.2.0] /home/paul/.android/build-cache/6ab3e0d93b7ba5c91193aa055cab00f3a238fb92/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.2.0] /home/paul/.android/build-cache/66be4bced951b84b78a8a8738415969f924dfb70/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.2.0] /home/paul/.android/build-cache/c15ca97dca59069e7b08dd4754f88126e0f942ad/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:25.2.0] /home/paul/.android/build-cache/35494158fe659cf3f146b7cfacd43729edc33896/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/paul/.android/build-cache/d2e67143d7dc95934277fda4f1fa46f94595f5e1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/paul/.android/build-cache/f36b572fca7bfac752ddda645ec7818c0cf96f03/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/paul/.android/build-cache/7adf920d5a84778f8d7a68756dda2497bb0d9cc9/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/paul/.android/build-cache/e0a1a0eaf38aab4193d79eda42891774323a43cf/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /home/paul/.android/build-cache/2ddc4976f6ad70547b8c81f571ec8a9b5a8dc177/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/paul/.android/build-cache/39c3f319f4dc97f59e0d3bd7b9bdb84fecef787b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/paul/.android/build-cache/837292c14320d03476a107b227badb590e096e84/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/paul/.android/build-cache/7da3cc6fa8905bd02b9745e269c2807b7dd2fd42/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/paul/.android/build-cache/ac4d3b3973f3bc1f4941a7b0fc9637b536d6b435/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/paul/.android/build-cache/d237e3f4e6e4aa3b9e0921c9bae5e88c861e52ed/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/paul/.android/build-cache/c7f3efc79e6cc15431c578428dab06343433ab8b/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.2.0] /home/paul/.android/build-cache/6c7527bcce69a657c8f9ba101bddf7c7d3af1701/output/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.2.0] /home/paul/.android/build-cache/35494158fe659cf3f146b7cfacd43729edc33896/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml
 		INJECTED from /home/paul/AndroidStudioProjects/MyMechanic/app/src/main/AndroidManifest.xml

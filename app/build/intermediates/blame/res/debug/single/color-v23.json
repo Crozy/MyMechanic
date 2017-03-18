@@ -1,46 +1,46 @@
 [
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/color-v23/abc_tint_edittext.xml"
+        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/color-v23/abc_tint_btn_checkable.xml"
+        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
-        "source": "/home/paul/.android/build-cache/6c7527bcce69a657c8f9ba101bddf7c7d3af1701/output/res/color-v23/design_tint_password_toggle.xml"
+        "source": "/home/paul/.android/build-cache/35494158fe659cf3f146b7cfacd43729edc33896/output/res/color-v23/design_tint_password_toggle.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/color-v23/abc_color_highlight_material.xml"
+        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color-v23/abc_color_highlight_material.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/color-v23/abc_btn_colored_text_material.xml"
+        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/color-v23/abc_tint_switch_track.xml"
+        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/color-v23/abc_tint_spinner.xml"
+        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/color-v23/abc_tint_default.xml"
+        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color-v23/abc_tint_default.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/color-v23/abc_tint_seek_thumb.xml"
+        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
-        "source": "/home/paul/.android/build-cache/7f9129dada9d6630a9a1cdd2fea5ece136dc3c90/output/res/color-v23/abc_tint_switch_thumb.xml"
+        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color-v23/abc_tint_switch_thumb.xml"
     }
 ]

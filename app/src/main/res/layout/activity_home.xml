@@ -23,9 +23,9 @@
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="175dp"
+        android:layout_width="240dp"
         android:layout_height="131dp"
-        android:layout_marginLeft="300px"
+        android:layout_marginLeft="200px"
         android:layout_marginTop="800px"
         android:paddingBottom="50px"
         android:text="Recherche de garage" />

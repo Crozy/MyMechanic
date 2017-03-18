@@ -4,4 +4,26 @@
     <string name="title_activity_garage_search">GarageSearchActivity</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_home">Home</string>
+
+    <string-array name="car_array">
+        <item>Seat</item>
+        <item>Volkswagen</item>
+        <item>Mercedes</item>
+        <item>BMW</item>
+        <item>Audi</item>
+        <item>Skoda</item>
+        <item>Peugeot</item>
+        <item>Renault</item>
+    </string-array>
+
+    <string-array name="Carburant">
+        <item>Essence</item>
+        <item>Diesel</item>
+    </string-array>
+
+    <string-array name="Moteur">
+        <item>SDI</item>
+        <item>TDI</item>
+    </string-array>
+
 </resources>
