@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
-        "source": "/home/paul/.android/build-cache/8976b579d53f5a07f27a82fe470e56a48db8218a/output/res/layout-v21/place_autocomplete_fragment.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\ffd0c625d43627cb1d06ecf9fc0d86bd4287c46d\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/layout-v21/notification_action.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     }
 ]

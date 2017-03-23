@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+        "outputFile": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "/home/paul/.android/build-cache/cbc8dafb938af9419d060bdadbf0d46e33b74f9b/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "file": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 188
                 },
                 "from": {
-                    "file": "/home/paul/.android/build-cache/cbc8dafb938af9419d060bdadbf0d46e33b74f9b/output/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "file": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
