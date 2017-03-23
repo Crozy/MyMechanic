@@ -1,110 +1,110 @@
 [
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/home/paul/.android/build-cache/5fb6ab59590991cc2ba555b8abf9aa92835f4e6f/output/res/color/common_google_signin_btn_text_light.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_btn_colored_borderless_text_material.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
-        "source": "/home/paul/.android/build-cache/d9539f6dc5c3d82521a3f5af6468617a2066d330/output/res/color/wallet_primary_text_holo_light.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/home/paul/.android/build-cache/35494158fe659cf3f146b7cfacd43729edc33896/output/res/color/design_error.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_tint_seek_thumb.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_search_url_text.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\14e3c33c183bb8ddaea22fe198ef229814eb4929\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_tint_edittext.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_btn_colored_text_material.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/switch_thumb_material_light.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
-        "source": "/home/paul/.android/build-cache/35494158fe659cf3f146b7cfacd43729edc33896/output/res/color/design_tint_password_toggle.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\b19b8b835910d376d37fa021a445fe05d89a05d7\\output\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/home/paul/.android/build-cache/5fb6ab59590991cc2ba555b8abf9aa92835f4e6f/output/res/color/common_google_signin_btn_text_dark.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_tint_default.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\c1d366d4b4b0cd378490111e17ce87b112e76394\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_primary_text_material_dark.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\b19b8b835910d376d37fa021a445fe05d89a05d7\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_hint_foreground_material_light.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/switch_thumb_material_dark.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_tint_switch_thumb.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\b19b8b835910d376d37fa021a445fe05d89a05d7\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_tint_switch_track.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_tint_spinner.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\14e3c33c183bb8ddaea22fe198ef229814eb4929\\output\\res\\color\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
-        "source": "/home/paul/.android/build-cache/5fb6ab59590991cc2ba555b8abf9aa92835f4e6f/output/res/color/common_google_signin_btn_tint.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_tint_btn_checkable.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\c1d366d4b4b0cd378490111e17ce87b112e76394\\output\\res\\color\\wallet_primary_text_holo_light.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/home/paul/.android/build-cache/dd759463aa0200f06a0d38c460d11719849192ad/output/res/color/abc_hint_foreground_material_dark.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
-        "source": "/home/paul/.android/build-cache/d9539f6dc5c3d82521a3f5af6468617a2066d330/output/res/color/wallet_secondary_text_holo_dark.xml"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\color\\abc_tint_seek_thumb.xml"
     }
 ]

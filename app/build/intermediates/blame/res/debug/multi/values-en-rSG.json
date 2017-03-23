@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+        "outputFile": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "/home/paul/.android/build-cache/d9539f6dc5c3d82521a3f5af6468617a2066d330/output/res/values-en-rSG/values.xml",
+                    "file": "C:\\Users\\Leuck\\.android\\build-cache\\c1d366d4b4b0cd378490111e17ce87b112e76394\\output\\res\\values-en-rSG\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,

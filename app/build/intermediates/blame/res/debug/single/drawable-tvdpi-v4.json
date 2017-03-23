@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
-        "source": "/home/paul/.android/build-cache/523c953aea957d1d9a1de2377dd9ab0801d1ef4f/output/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\b320c8069285feacaad20a4a7de145fc320327ec\\output\\res\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
-        "source": "/home/paul/.android/build-cache/523c953aea957d1d9a1de2377dd9ab0801d1ef4f/output/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\b320c8069285feacaad20a4a7de145fc320327ec\\output\\res\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
-        "source": "/home/paul/.android/build-cache/523c953aea957d1d9a1de2377dd9ab0801d1ef4f/output/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\b320c8069285feacaad20a4a7de145fc320327ec\\output\\res\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
-        "source": "/home/paul/.android/build-cache/523c953aea957d1d9a1de2377dd9ab0801d1ef4f/output/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\b320c8069285feacaad20a4a7de145fc320327ec\\output\\res\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png"
     }
 ]

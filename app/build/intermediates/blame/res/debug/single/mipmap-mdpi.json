@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
-        "source": "/home/paul/AndroidStudioProjects/MyMechanic/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\un.png",
+        "source": "D:\\Android\\MyMechanic\\app\\src\\main\\res\\mipmap-mdpi\\un.png"
     },
     {
-        "merged": "/home/paul/AndroidStudioProjects/MyMechanic/app/build/intermediates/res/merged/debug/mipmap-mdpi/un.png",
-        "source": "/home/paul/AndroidStudioProjects/MyMechanic/app/src/main/res/mipmap-mdpi/un.png"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\Android\\MyMechanic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]
