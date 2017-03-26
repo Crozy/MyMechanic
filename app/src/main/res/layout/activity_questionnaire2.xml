@@ -9,8 +9,9 @@
     <FrameLayout
         android:layout_width="395dp"
         android:layout_height="587dp"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="8dp">
+        tools:layout_editor_absoluteY="0dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent">
 
         <TextView
             android:id="@+id/textView7"
@@ -18,5 +19,157 @@
             android:layout_height="wrap_content"
             android:text="Voyant allumé :"
             android:textSize="30sp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_marginLeft="500px"
+            android:layout_marginTop="200px"
+            app:srcCompat="@mipmap/voyant" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_marginLeft="500px"
+            android:layout_marginTop="350px"
+            app:srcCompat="@mipmap/voyant2" />
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200px"
+            android:layout_marginTop="210px"
+            android:text="CheckBox" />
+
+        <CheckBox
+            android:id="@+id/checkBox2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200px"
+            android:layout_marginTop="360px"
+            android:text="CheckBox" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_marginLeft="500px"
+            android:layout_marginTop="500px"
+            app:srcCompat="@mipmap/voyant3" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_marginLeft="500px"
+            android:layout_marginTop="650px"
+            app:srcCompat="@mipmap/voyant4" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_marginLeft="500px"
+            android:layout_marginTop="800px"
+            app:srcCompat="@mipmap/voyant5" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_marginLeft="500px"
+            android:layout_marginTop="1100px"
+            app:srcCompat="@mipmap/voyant7" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_marginLeft="500px"
+            android:layout_marginTop="1250px"
+            app:srcCompat="@mipmap/voyant8" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_marginLeft="500px"
+            android:layout_marginTop="1400px"
+            app:srcCompat="@mipmap/voyant9" />
+
+        <CheckBox
+            android:id="@+id/checkBox4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200px"
+            android:layout_marginTop="660px"
+            android:text="CheckBox" />
+
+        <CheckBox
+            android:id="@+id/checkBox6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200px"
+            android:layout_marginTop="960px"
+            android:text="CheckBox" />
+
+        <CheckBox
+            android:id="@+id/checkBox7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200px"
+            android:layout_marginTop="1110px"
+            android:text="CheckBox" />
+
+        <CheckBox
+            android:id="@+id/checkBox8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200px"
+            android:layout_marginTop="1260px"
+            android:text="CheckBox" />
+
+        <CheckBox
+            android:id="@+id/checkBox9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200px"
+            android:layout_marginTop="1410px"
+            android:text="CheckBox" />
+
+        <CheckBox
+            android:id="@+id/checkBox5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200px"
+            android:layout_marginTop="810px"
+            android:text="CheckBox" />
+
+        <CheckBox
+            android:id="@+id/checkBox3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200px"
+            android:layout_marginTop="510px"
+            android:text="CheckBox" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_marginLeft="500px"
+            android:layout_marginTop="950px"
+            app:srcCompat="@mipmap/voyant6" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="700px"
+            android:layout_marginTop="1200px"
+            android:text="Suivant" />
     </FrameLayout>
 </android.support.constraint.ConstraintLayout>

@@ -36,6 +36,10 @@
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_questionnaire3.xml",
+        "source": "D:\\Android\\MyMechanic\\app\\src\\main\\res\\layout\\content_questionnaire3.xml"
+    },
+    {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\3cec33c1ffe32b7b6ca926cb9c1b64f81e4e9b14\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
     },
@@ -254,6 +258,10 @@
     {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\ffd0c625d43627cb1d06ecf9fc0d86bd4287c46d\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_questionnaire3.xml",
+        "source": "D:\\Android\\MyMechanic\\app\\src\\main\\res\\layout\\activity_questionnaire3.xml"
     },
     {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",

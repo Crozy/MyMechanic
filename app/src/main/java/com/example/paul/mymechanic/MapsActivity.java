@@ -129,7 +129,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         mMap.addMarker(new MarkerOptions().position(garage01)
                 .title("Garage D.m.k"))
-                .setSnippet("Note : 4/5 \n Avis1 \n Avis2 \n Avis3");
+                .setSnippet("Note : 4/5 Temps d'intervention 18 min");
 
 //        Marker position01 = mMap.addMarker(new MarkerOptions()
 //                .position(new LatLng(48.8618408, 2.475131000000033))
@@ -140,13 +140,13 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         mMap.addMarker(new MarkerOptions().position(garage02)
                 .title("Garage Du Parc"))
-                .setSnippet("Note : 3/5");
+                .setSnippet("Note : 3/5 Temps d'intervention 20 min");
         mMap.addMarker(new MarkerOptions().position(garage03)
                 .title("Garage Du Fort"))
-                .setSnippet("Note : 4.8/5");
+                .setSnippet("Note : 4.8/5 Temps d'intervention 15 min");
         mMap.addMarker(new MarkerOptions().position(garage04)
                 .title("Garage du Coin"))
-                .setSnippet("Note : 3.9/5");
+                .setSnippet("Note : 3.9/5 Temps d'intervention 22 min");
 
        //mMap.moveCamera(CameraUpdateFactory.newLatLng(Paris));
 

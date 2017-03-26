@@ -100,28 +100,28 @@
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_cast_disabled_light.png"
     },
     {
-        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_10_dark.png",
-        "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_on_10_dark.png"
-    },
-    {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\design_ic_visibility_off.png",
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\14e3c33c183bb8ddaea22fe198ef229814eb4929\\output\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_10_dark.png",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_on_10_dark.png"
     },
     {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_skip_next_white_24.png",
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\3cec33c1ffe32b7b6ca926cb9c1b64f81e4e9b14\\output\\res\\drawable-xxhdpi-v4\\quantum_ic_skip_next_white_24.png"
     },
     {
-        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_connecting_20_light.png",
-        "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_connecting_20_light.png"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play_dark.png",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_play_dark.png"
     },
     {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_connecting_16_light.png",
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_connecting_16_light.png"
     },
     {
-        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play_dark.png",
-        "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_play_dark.png"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_connecting_20_light.png",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_connecting_20_light.png"
     },
     {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_02_dark.png",
@@ -216,16 +216,16 @@
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\b19b8b835910d376d37fa021a445fe05d89a05d7\\output\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_18_light.png",
-        "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_on_18_light.png"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_connecting_07_light.png",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_connecting_07_light.png"
     },
     {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_04_dark.png",
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_on_04_dark.png"
     },
     {
-        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_connecting_07_light.png",
-        "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_connecting_07_light.png"
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_18_light.png",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_on_18_light.png"
     },
     {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\powered_by_google_dark.png",
@@ -236,12 +236,12 @@
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_on_05_light.png"
     },
     {
-        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_12_light.png",
-        "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_on_12_light.png"
-    },
-    {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_11_dark.png",
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_on_11_dark.png"
+    },
+    {
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_12_light.png",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\56fa76e6fde000ce7bf9b1a381f887d84694318f\\output\\res\\drawable-xxhdpi-v4\\ic_media_route_on_12_light.png"
     },
     {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png",
@@ -276,12 +276,12 @@
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\cef14673ff4943ca662e04feb5cfa78293545ffd\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_volume_off_grey600_36.png",
-        "source": "C:\\Users\\Leuck\\.android\\build-cache\\3cec33c1ffe32b7b6ca926cb9c1b64f81e4e9b14\\output\\res\\drawable-xxhdpi-v4\\quantum_ic_volume_off_grey600_36.png"
-    },
-    {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_closed_caption_white_36.png",
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\3cec33c1ffe32b7b6ca926cb9c1b64f81e4e9b14\\output\\res\\drawable-xxhdpi-v4\\quantum_ic_closed_caption_white_36.png"
+    },
+    {
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_volume_off_grey600_36.png",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\3cec33c1ffe32b7b6ca926cb9c1b64f81e4e9b14\\output\\res\\drawable-xxhdpi-v4\\quantum_ic_volume_off_grey600_36.png"
     },
     {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
