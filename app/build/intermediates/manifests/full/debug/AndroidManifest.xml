@@ -104,6 +104,10 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.paul.mymechanic.Questionnaire2" />
+        <activity
+            android:name="com.example.paul.mymechanic.Questionnaire3"
+            android:label="@string/title_activity_questionnaire3"
+            android:theme="@style/AppTheme.NoActionBar" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

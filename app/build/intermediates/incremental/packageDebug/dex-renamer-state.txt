@@ -1,4 +1,4 @@
-#Thu Mar 23 18:46:41 CET 2017
+#Sun Mar 26 18:12:53 CEST 2017
 base.0=D\:\\Android\\MyMechanic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fac7a674e1118ba76233556978d12d34c5302e3e
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:2:1-87:12
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:2:1-91:12
 	package
 		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:11:22-76
 application
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:13:5-85:19
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:13:5-89:19
 MERGED from [com.google.android.gms:play-services:10.2.0] C:\Users\Leuck\.android\build-cache\df25f187675ab9227311a073c19259a76947bbf7\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Leuck\.android\build-cache\8ad830708b3b77a084d06a98d21c86f282f76d6c\output\AndroidManifest.xml:23:5-27:19
 MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\Leuck\.android\build-cache\240d24ec639adee514fc32c10466d1c56feeb4af\output\AndroidManifest.xml:26:5-19
@@ -129,9 +129,17 @@ ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:73:9-83:20
 	android:name
 		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:74:13-42
 activity#com.example.paul.mymechanic.Questionnaire2
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:84:9-61
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:84:9-52
 	android:name
 		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:84:19-49
+activity#com.example.paul.mymechanic.Questionnaire3
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:85:9-88:68
+	android:label
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:87:13-66
+	android:theme
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:88:13-56
+	android:name
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:86:13-43
 uses-sdk
 INJECTED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.android.gms:play-services:10.2.0] C:\Users\Leuck\.android\build-cache\df25f187675ab9227311a073c19259a76947bbf7\output\AndroidManifest.xml:4:5-43
