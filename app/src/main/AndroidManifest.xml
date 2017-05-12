@@ -85,7 +85,18 @@
         <activity
             android:name=".Questionnaire3"
             android:label="@string/title_activity_questionnaire3"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".inscription"
+            android:label="@string/title_activity_inscription"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Contact_Garage"></activity>
     </application>
 
 </manifest>

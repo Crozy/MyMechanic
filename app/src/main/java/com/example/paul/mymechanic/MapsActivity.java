@@ -117,6 +117,11 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
+//        mMap.setOnMapClickListener((GoogleMap.OnMapClickListener) this);
+//        mMap.setOnMapLongClickListener((GoogleMap.OnMapLongClickListener) this);
+//        mMap.setOnMarkerDragListener((GoogleMap.OnMarkerDragListener) this);
+//        mMap.setInfoWindowAdapter((GoogleMap.InfoWindowAdapter) this);
+        mMap.setOnInfoWindowClickListener(MyOnInfoWindowClickListener);
 
         // Add a marker in Sydney and move the camera
         LatLng garage01 = new LatLng(48.8618408, 2.475131000000033);
@@ -242,5 +247,22 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         Intent intent = new Intent(MapsActivity.this, Home.class);
         startActivity(intent);
     }
+
+    GoogleMap.OnInfoWindowClickListener MyOnInfoWindowClickListener
+            = new GoogleMap.OnInfoWindowClickListener(){
+        @Override
+        public void onInfoWindowClick(Marker marker) {
+
+//            Toast.makeText(MapsActivity.this,
+//                    "onInfoWindowClick():\n" +
+//                            marker.getPosition().latitude + "\n" +
+//                            marker.getPosition().longitude,
+//                    Toast.LENGTH_LONG).show();
+//            Log.d("TEST", "Click sur l'info bull");
+
+            Intent intent = new Intent(MapsActivity.this, Questionnaire.class);
+            startActivity(intent);
+        }
+    };
 
 }

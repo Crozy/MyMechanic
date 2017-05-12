@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:2:1-91:12
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:2:1-102:12
 	package
 		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:11:22-76
 application
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:13:5-89:19
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:13:5-100:19
 MERGED from [com.google.android.gms:play-services:10.2.0] C:\Users\Leuck\.android\build-cache\df25f187675ab9227311a073c19259a76947bbf7\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Leuck\.android\build-cache\8ad830708b3b77a084d06a98d21c86f282f76d6c\output\AndroidManifest.xml:23:5-27:19
 MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\Leuck\.android\build-cache\240d24ec639adee514fc32c10466d1c56feeb4af\output\AndroidManifest.xml:26:5-19
@@ -26,8 +26,8 @@ MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\Leu
 MERGED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\Leuck\.android\build-cache\fa3d03751d0889a1da5a25e08c998daf6100da35\output\AndroidManifest.xml:19:5-25:19
 MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\Leuck\.android\build-cache\3cec33c1ffe32b7b6ca926cb9c1b64f81e4e9b14\output\AndroidManifest.xml:4:5-8:19
 MERGED from [com.google.android.gms:play-services-cast:10.2.0] C:\Users\Leuck\.android\build-cache\d8ee208800fe470907d0680f21c25db5c84baeb0\output\AndroidManifest.xml:18:5-19
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Leuck\.android\build-cache\56fa76e6fde000ce7bf9b1a381f887d84694318f\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Leuck\.android\build-cache\75d68ecbee6178188974f6ef4f638ddd8e7ca319\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Leuck\.android\build-cache\060dfbbb2dd18c37343e8cfdec2419dddabdde9f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Leuck\.android\build-cache\20a2815b0fbad795070aaea48688197bcb3f11f5\output\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] C:\Users\Leuck\.android\build-cache\078b2f94ef90f1b65a067e394e0874a8714f313d\output\AndroidManifest.xml:18:5-19
 MERGED from [com.google.firebase:firebase-config:10.2.0] C:\Users\Leuck\.android\build-cache\8a2263b8d10c59a9471d307b78ce3c210c6f09ae\output\AndroidManifest.xml:18:5-19
 MERGED from [com.google.android.gms:play-services-awareness:10.2.0] C:\Users\Leuck\.android\build-cache\7552f08deb8e62679d056154e8168ac53dbbc0aa\output\AndroidManifest.xml:18:5-19
@@ -61,17 +61,17 @@ MERGED from [com.google.android.gms:play-services-wearable:10.2.0] C:\Users\Leuc
 MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Leuck\.android\build-cache\b19b8b835910d376d37fa021a445fe05d89a05d7\output\AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Leuck\.android\build-cache\a8560a30270e0398db28b0d6335c4b8c0ab7938f\output\AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Leuck\.android\build-cache\2a8eb52442f466a71cf150fab2d170c4084de4d9\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:design:25.2.0] C:\Users\Leuck\.android\build-cache\14e3c33c183bb8ddaea22fe198ef229814eb4929\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Leuck\.android\build-cache\cef14673ff4943ca662e04feb5cfa78293545ffd\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Leuck\.android\build-cache\06bc944f027b3253f4dafae74fbcc27522ea0606\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Leuck\.android\build-cache\b4ac7e3d2f3a55aaef17ff0a192ad2ab3c1b88c8\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.2.0] C:\Users\Leuck\.android\build-cache\13a8332eeb8ea9bc4252cb288a94c30c37a58859\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Leuck\.android\build-cache\c140543b74b439370848bcee580c5cd0f8a06551\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Leuck\.android\build-cache\789222d80a730ceb770f34ab9dd7de22b7badeb7\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Leuck\.android\build-cache\d53b9dd1f07bf0b5c5edb7047c60db9437d6679c\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Leuck\.android\build-cache\59a2bad232e7ec3e256026b8e0190a9e1b2d4931\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Leuck\.android\build-cache\3f8af4d031f2d2284ba6c3ce1548ffd50caaa740\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Leuck\.android\build-cache\1f63f39cb5ae7e3df9483da726afcacf4d0b429a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\Leuck\.android\build-cache\1e838253932db0a36ef0bc291cca894e29f348bb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Leuck\.android\build-cache\85394a3bc923bb697c777a1903607e168e02391b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Leuck\.android\build-cache\826f2ca25c614b636b9c8fd744a5b45c33790bc8\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Leuck\.android\build-cache\70910a75708e9deb6acbfb2a95f02c6848438443\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Leuck\.android\build-cache\8c80cb24112d755d5ac1931cf6c6c97e171d771b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Leuck\.android\build-cache\a44720fe85fe89b628541d2e9c8e908c1657c6c5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Leuck\.android\build-cache\9165e58fd1e3519c4e3a01942e76656fb123d631\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Leuck\.android\build-cache\5c7bf74b53250c783a790c34e6b53363b82b61d7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Leuck\.android\build-cache\16159ea0a5a80823940b058f4da1de94f4b5fc7b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Leuck\.android\build-cache\678f33829078ada5569f7a8b0f849169ccc1d953\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Leuck\.android\build-cache\10a142ab0d62c04f1108db497bf510f53b62d53e\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Leuck\.android\build-cache\eacf4121d1af37a0cd55f965166edf49da5375af\output\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:16:9-41
@@ -133,13 +133,25 @@ ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:84:9-52
 	android:name
 		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:84:19-49
 activity#com.example.paul.mymechanic.Questionnaire3
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:85:9-88:68
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:85:9-88:59
 	android:label
 		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:87:13-66
 	android:theme
 		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:88:13-56
 	android:name
 		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:86:13-43
+activity#com.example.paul.mymechanic.inscription
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:89:9-98:20
+	android:label
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:91:13-63
+	android:theme
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:92:13-56
+	android:name
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:90:13-40
+activity#com.example.paul.mymechanic.Contact_Garage
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:99:9-61
+	android:name
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:99:19-49
 uses-sdk
 INJECTED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.android.gms:play-services:10.2.0] C:\Users\Leuck\.android\build-cache\df25f187675ab9227311a073c19259a76947bbf7\output\AndroidManifest.xml:4:5-43
@@ -151,8 +163,8 @@ MERGED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\Leuck\.a
 MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] C:\Users\Leuck\.android\build-cache\f170f39ad4106dcf58a9ea301677cba899b8f70a\output\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\Leuck\.android\build-cache\3cec33c1ffe32b7b6ca926cb9c1b64f81e4e9b14\output\AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-cast:10.2.0] C:\Users\Leuck\.android\build-cache\d8ee208800fe470907d0680f21c25db5c84baeb0\output\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Leuck\.android\build-cache\56fa76e6fde000ce7bf9b1a381f887d84694318f\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Leuck\.android\build-cache\75d68ecbee6178188974f6ef4f638ddd8e7ca319\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Leuck\.android\build-cache\060dfbbb2dd18c37343e8cfdec2419dddabdde9f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Leuck\.android\build-cache\20a2815b0fbad795070aaea48688197bcb3f11f5\output\AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] C:\Users\Leuck\.android\build-cache\078b2f94ef90f1b65a067e394e0874a8714f313d\output\AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-config:10.2.0] C:\Users\Leuck\.android\build-cache\8a2263b8d10c59a9471d307b78ce3c210c6f09ae\output\AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-awareness:10.2.0] C:\Users\Leuck\.android\build-cache\7552f08deb8e62679d056154e8168ac53dbbc0aa\output\AndroidManifest.xml:17:5-43
@@ -193,21 +205,21 @@ MERGED from [com.google.android.gms:play-services-wearable:10.2.0] C:\Users\Leuc
 MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Leuck\.android\build-cache\b19b8b835910d376d37fa021a445fe05d89a05d7\output\AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Leuck\.android\build-cache\a8560a30270e0398db28b0d6335c4b8c0ab7938f\output\AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Leuck\.android\build-cache\2a8eb52442f466a71cf150fab2d170c4084de4d9\output\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:design:25.2.0] C:\Users\Leuck\.android\build-cache\14e3c33c183bb8ddaea22fe198ef229814eb4929\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Leuck\.android\build-cache\cef14673ff4943ca662e04feb5cfa78293545ffd\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Leuck\.android\build-cache\06bc944f027b3253f4dafae74fbcc27522ea0606\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Leuck\.android\build-cache\b4ac7e3d2f3a55aaef17ff0a192ad2ab3c1b88c8\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Leuck\.android\build-cache\8188a4758d2211d6b6a9035ac19e9890217e9f79\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.2.0] C:\Users\Leuck\.android\build-cache\13a8332eeb8ea9bc4252cb288a94c30c37a58859\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Leuck\.android\build-cache\c140543b74b439370848bcee580c5cd0f8a06551\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Leuck\.android\build-cache\789222d80a730ceb770f34ab9dd7de22b7badeb7\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Leuck\.android\build-cache\d53b9dd1f07bf0b5c5edb7047c60db9437d6679c\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Leuck\.android\build-cache\59a2bad232e7ec3e256026b8e0190a9e1b2d4931\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Leuck\.android\build-cache\3f8af4d031f2d2284ba6c3ce1548ffd50caaa740\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Leuck\.android\build-cache\1f63f39cb5ae7e3df9483da726afcacf4d0b429a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:25.2.0] C:\Users\Leuck\.android\build-cache\1e838253932db0a36ef0bc291cca894e29f348bb\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Leuck\.android\build-cache\85394a3bc923bb697c777a1903607e168e02391b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Leuck\.android\build-cache\826f2ca25c614b636b9c8fd744a5b45c33790bc8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Leuck\.android\build-cache\70910a75708e9deb6acbfb2a95f02c6848438443\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Leuck\.android\build-cache\a186d9e18e9e27ce89e809c8e5acc641e05d59a4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\Leuck\.android\build-cache\8c80cb24112d755d5ac1931cf6c6c97e171d771b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Leuck\.android\build-cache\a44720fe85fe89b628541d2e9c8e908c1657c6c5\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Leuck\.android\build-cache\9165e58fd1e3519c4e3a01942e76656fb123d631\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Leuck\.android\build-cache\5c7bf74b53250c783a790c34e6b53363b82b61d7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Leuck\.android\build-cache\16159ea0a5a80823940b058f4da1de94f4b5fc7b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Leuck\.android\build-cache\678f33829078ada5569f7a8b0f849169ccc1d953\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Leuck\.android\build-cache\10a142ab0d62c04f1108db497bf510f53b62d53e\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Leuck\.android\build-cache\eacf4121d1af37a0cd55f965166edf49da5375af\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.2.0] C:\Users\Leuck\.android\build-cache\14e3c33c183bb8ddaea22fe198ef229814eb4929\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.2.0] C:\Users\Leuck\.android\build-cache\1e838253932db0a36ef0bc291cca894e29f348bb\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml
