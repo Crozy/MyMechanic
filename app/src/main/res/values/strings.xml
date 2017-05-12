@@ -34,7 +34,7 @@
         <item>TDI</item>
     </string-array>
     <string name="title_activity_questionnaire3">Questionnaire3</string>
-
+    <string name="title_activity_inscription">inscription</string>
 
 
 </resources>

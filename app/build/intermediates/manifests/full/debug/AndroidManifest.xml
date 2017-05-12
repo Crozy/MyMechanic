@@ -108,6 +108,17 @@
             android:name="com.example.paul.mymechanic.Questionnaire3"
             android:label="@string/title_activity_questionnaire3"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.paul.mymechanic.inscription"
+            android:label="@string/title_activity_inscription"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.paul.mymechanic.Contact_Garage" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

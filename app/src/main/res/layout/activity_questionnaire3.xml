@@ -20,7 +20,9 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <include layout="@layout/content_questionnaire3" />
+    <include
+        android:id="@+id/abc"
+        layout="@layout/content_questionnaire3" />
 
     <!--<android.support.design.widget.FloatingActionButton-->
         <!--android:id="@+id/fab"-->

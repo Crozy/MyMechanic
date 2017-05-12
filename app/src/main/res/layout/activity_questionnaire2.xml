@@ -9,14 +9,16 @@
     <FrameLayout
         android:layout_width="395dp"
         android:layout_height="587dp"
-        tools:layout_editor_absoluteY="0dp"
-        android:layout_marginRight="8dp"
-        app:layout_constraintRight_toRightOf="parent">
+        android:layout_marginRight="9dp"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteY="7dp">
 
         <TextView
             android:id="@+id/textView7"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="50px"
+            android:layout_marginTop="50px"
             android:text="Voyant allumé :"
             android:textSize="30sp" />
 
@@ -24,15 +26,15 @@
             android:id="@+id/imageView"
             android:layout_width="100px"
             android:layout_height="100px"
-            android:layout_marginLeft="500px"
-            android:layout_marginTop="200px"
+            android:layout_marginLeft="800px"
+            android:layout_marginTop="1100px"
             app:srcCompat="@mipmap/voyant" />
 
         <ImageView
             android:id="@+id/imageView2"
             android:layout_width="100px"
             android:layout_height="100px"
-            android:layout_marginLeft="500px"
+            android:layout_marginLeft="800px"
             android:layout_marginTop="350px"
             app:srcCompat="@mipmap/voyant2" />
 
@@ -42,7 +44,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="200px"
             android:layout_marginTop="210px"
-            android:text="CheckBox" />
+            android:text="Désembuage lunette arrière" />
 
         <CheckBox
             android:id="@+id/checkBox2"
@@ -50,21 +52,21 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="200px"
             android:layout_marginTop="360px"
-            android:text="CheckBox" />
+            android:text=" Contrôle de traction" />
 
         <ImageView
             android:id="@+id/imageView3"
             android:layout_width="100px"
             android:layout_height="100px"
-            android:layout_marginLeft="500px"
-            android:layout_marginTop="500px"
+            android:layout_marginLeft="800px"
+            android:layout_marginTop="950px"
             app:srcCompat="@mipmap/voyant3" />
 
         <ImageView
             android:id="@+id/imageView4"
             android:layout_width="100px"
             android:layout_height="100px"
-            android:layout_marginLeft="500px"
+            android:layout_marginLeft="800px"
             android:layout_marginTop="650px"
             app:srcCompat="@mipmap/voyant4" />
 
@@ -72,7 +74,7 @@
             android:id="@+id/imageView5"
             android:layout_width="100px"
             android:layout_height="100px"
-            android:layout_marginLeft="500px"
+            android:layout_marginLeft="800px"
             android:layout_marginTop="800px"
             app:srcCompat="@mipmap/voyant5" />
 
@@ -80,23 +82,15 @@
             android:id="@+id/imageView7"
             android:layout_width="100px"
             android:layout_height="100px"
-            android:layout_marginLeft="500px"
-            android:layout_marginTop="1100px"
+            android:layout_marginLeft="800px"
+            android:layout_marginTop="200px"
             app:srcCompat="@mipmap/voyant7" />
-
-        <ImageView
-            android:id="@+id/imageView8"
-            android:layout_width="100px"
-            android:layout_height="100px"
-            android:layout_marginLeft="500px"
-            android:layout_marginTop="1250px"
-            app:srcCompat="@mipmap/voyant8" />
 
         <ImageView
             android:id="@+id/imageView9"
             android:layout_width="100px"
             android:layout_height="100px"
-            android:layout_marginLeft="500px"
+            android:layout_marginLeft="800px"
             android:layout_marginTop="1400px"
             app:srcCompat="@mipmap/voyant9" />
 
@@ -106,7 +100,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="200px"
             android:layout_marginTop="660px"
-            android:text="CheckBox" />
+            android:text="Antibrouillard avant" />
 
         <CheckBox
             android:id="@+id/checkBox6"
@@ -114,7 +108,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="200px"
             android:layout_marginTop="960px"
-            android:text="CheckBox" />
+            android:text="Feux de détresse" />
 
         <CheckBox
             android:id="@+id/checkBox7"
@@ -122,7 +116,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="200px"
             android:layout_marginTop="1110px"
-            android:text="CheckBox" />
+            android:text="Défaillance des freins" />
 
         <CheckBox
             android:id="@+id/checkBox8"
@@ -130,7 +124,8 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="200px"
             android:layout_marginTop="1260px"
-            android:text="CheckBox" />
+            android:elevation="0dp"
+            android:text="Pression d'huile moteur" />
 
         <CheckBox
             android:id="@+id/checkBox9"
@@ -138,15 +133,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="200px"
             android:layout_marginTop="1410px"
-            android:text="CheckBox" />
-
-        <CheckBox
-            android:id="@+id/checkBox5"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="200px"
-            android:layout_marginTop="810px"
-            android:text="CheckBox" />
+            android:text="Charge batterie" />
 
         <CheckBox
             android:id="@+id/checkBox3"
@@ -154,22 +141,38 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="200px"
             android:layout_marginTop="510px"
-            android:text="CheckBox" />
-
-        <ImageView
-            android:id="@+id/imageView6"
-            android:layout_width="100px"
-            android:layout_height="100px"
-            android:layout_marginLeft="500px"
-            android:layout_marginTop="950px"
-            app:srcCompat="@mipmap/voyant6" />
+            android:text="Niveau mini de carburant" />
 
         <Button
             android:id="@+id/button3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="700px"
-            android:layout_marginTop="1200px"
+            android:layout_marginTop="30px"
             android:text="Suivant" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_marginLeft="800px"
+            android:layout_marginTop="500px"
+            app:srcCompat="@mipmap/voyant6" />
+
+        <CheckBox
+            android:id="@+id/checkBox5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200px"
+            android:layout_marginTop="810px"
+            android:text="Dépollution du moteur" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_marginLeft="800px"
+            android:layout_marginTop="1250px"
+            app:srcCompat="@mipmap/voyant8" />
     </FrameLayout>
 </android.support.constraint.ConstraintLayout>
