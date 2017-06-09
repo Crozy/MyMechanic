@@ -29,6 +29,22 @@ public class Questionnaire extends AppCompatActivity {
 
             @Override
             public void onClick(View v) {
+
+                final Spinner MarqueDuVehicule = (Spinner) findViewById(R.id.spinnerMarque);
+                SMS.AjoutMarque(MarqueDuVehicule.getSelectedItem().toString());
+
+                final Spinner TypeCommercial = (Spinner) findViewById(R.id.spinnerTypeCommercial);
+                SMS.AjoutTypeCommercial(TypeCommercial.getSelectedItem().toString());
+
+                final Spinner AnneeVehicule = (Spinner) findViewById(R.id.spinnerAnnee);
+                SMS.AjoutAnnée(AnneeVehicule.getSelectedItem().toString());
+
+                final Spinner Carburant = (Spinner) findViewById(R.id.spinnerCarburant);
+                SMS.AjoutCarburant(Carburant.getSelectedItem().toString());
+
+                final Spinner TypeMoteur = (Spinner) findViewById(R.id.spinnerMoteur);
+                SMS.AjoutTypeMoteur(TypeMoteur.getSelectedItem().toString());
+
                 Intent intent = new Intent(Questionnaire.this, Questionnaire2.class);
                 startActivity(intent);
             }
@@ -36,10 +52,11 @@ public class Questionnaire extends AppCompatActivity {
         });
     }
 
+
     public void ComboBox(){
 
         //Liste Année
-        Spinner spinner = (Spinner) findViewById(R.id.spinner);
+        Spinner spinner = (Spinner) findViewById(R.id.spinnerAnnee);
         // Create an ArrayAdapter using the string array and a default spinner layout
 
         ArrayList anneeList = new ArrayList();
@@ -66,7 +83,7 @@ public class Questionnaire extends AppCompatActivity {
                 Log.d("Message", "GOOD");
 
                 Spinner Marque = (Spinner) findViewById(R.id.spinnerMarque);
-                Spinner TypeCommercial = (Spinner) findViewById(R.id.spinner3);
+                Spinner TypeCommercial = (Spinner) findViewById(R.id.spinnerTypeCommercial);
                 String LaMarque;
 
                 LaMarque = Marque.getSelectedItem().toString();
@@ -97,6 +114,8 @@ public class Questionnaire extends AppCompatActivity {
                    adapterTypeCommercial.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
                    TypeCommercial.setAdapter(adapterTypeCommercial);
 
+
+
             }
 
             @Override
@@ -107,6 +126,8 @@ public class Questionnaire extends AppCompatActivity {
         });
 
     }
+
+
 
 
 

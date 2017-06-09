@@ -260,7 +260,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 //                    Toast.LENGTH_LONG).show();
 //            Log.d("TEST", "Click sur l'info bull");
 
-            Intent intent = new Intent(MapsActivity.this, Questionnaire.class);
+            Intent intent = new Intent(MapsActivity.this, Contact_Garage.class);
             startActivity(intent);
         }
     };

@@ -22,7 +22,7 @@
             android:textSize="30sp" />
 
         <Spinner
-            android:id="@+id/spinner4"
+            android:id="@+id/spinnerProbleme"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="150px"
@@ -34,6 +34,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="100px"
             android:layout_marginTop="300px"
-            android:text="Envoyé la demande d'intervention" />
+            android:text="Envoyé la demande d'intervention"
+            android:onClick="EnvoyéDevisSMS"/>
     </FrameLayout>
 </android.support.constraint.ConstraintLayout>

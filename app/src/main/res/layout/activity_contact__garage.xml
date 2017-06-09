@@ -22,38 +22,32 @@
             android:textSize="36sp" />
 
         <TextView
-            android:id="@+id/textView11"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="200px"
-            android:layout_marginTop="400px"
-            android:text="Numéro de Téléphone"
-            android:textSize="24sp" />
-
-        <TextView
             android:id="@+id/textView12"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="250px"
-            android:layout_marginTop="800px"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="200dp"
             android:text="Adresse email :"
             android:textSize="24sp" />
 
         <TextView
-            android:id="@+id/textView8"
+            android:id="@+id/LabelTel"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="200px"
-            android:layout_marginTop="500px"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="130dp"
+            android:onClick="Appel"
             android:text="06.85.78.24.15"
+            android:textColor="@color/colorPrimary"
+            android:textColorLink="@color/colorPrimaryDark"
             android:textSize="30sp" />
 
         <TextView
             android:id="@+id/textView13"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="100px"
-            android:layout_marginTop="900px"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="230dp"
             android:text="GarageIntel@gmail.com"
             android:textSize="30sp" />
 
@@ -63,6 +57,16 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="350px"
             android:layout_marginTop="1100px"
-            android:text="Ok" />
+            android:text="Décrire la panne"
+            android:onClick="QuestionPanne"/>
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="100dp"
+            android:text="Numéro de Téléphone :"
+            android:textSize="24sp" />
     </FrameLayout>
 </android.support.constraint.ConstraintLayout>
