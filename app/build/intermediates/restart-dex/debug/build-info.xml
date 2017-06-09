@@ -2,38 +2,59 @@
 <instant-run
     abi="x86"
     api-level="25"
-    build-mode="COLD"
+    build-mode="FULL"
     density="420dpi"
     format="10"
-    plugin-version="2.3.2"
-    timestamp="1494577094608"
+    plugin-version="2.3.3"
+    timestamp="1497014882760"
     token="-1442702785134145979"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="817" />
+        duration="374" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="84" />
+        duration="9" />
     <task
         name="verifier"
-        duration="24" />
+        duration="55" />
 
     <artifact
+        location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
         location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
         location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
         location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
         location="D:\Android\MyMechanic\app\build\outputs\apk\app-debug.apk"
@@ -41,14 +62,11 @@
 
     <build
         build-mode="FULL"
-        timestamp="1494576856468"
+        timestamp="1497014882760"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
-        <artifact
-            location="D:\Android\MyMechanic\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
         <artifact
             location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
@@ -78,23 +96,6 @@
             type="SPLIT" />
         <artifact
             location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1494577094608"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="D:\Android\MyMechanic\app\build\outputs\apk\app-debug.apk"

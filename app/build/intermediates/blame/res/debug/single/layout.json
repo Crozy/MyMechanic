@@ -24,12 +24,12 @@
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\85394a3bc923bb697c777a1903607e168e02391b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\Leuck\\.android\\build-cache\\85394a3bc923bb697c777a1903607e168e02391b\\output\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact__garage.xml",
         "source": "D:\\Android\\MyMechanic\\app\\src\\main\\res\\layout\\activity_contact__garage.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\85394a3bc923bb697c777a1903607e168e02391b\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",

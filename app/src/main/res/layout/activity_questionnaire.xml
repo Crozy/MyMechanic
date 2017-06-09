@@ -8,103 +8,101 @@
     tools:context="com.example.paul.mymechanic.Questionnaire">
 
 
-
     <FrameLayout
         android:layout_width="395dp"
         android:layout_height="643dp"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="8dp">
+        tools:layout_editor_absoluteX="7dp"
+        tools:layout_editor_absoluteY="7dp">
 
         <TextView
-            android:id="@+id/textView3"
-            android:layout_width="1000px"
-            android:layout_height="150px"
-            android:layout_marginLeft="20px"
-            android:layout_marginTop="200px"
+            android:id="@+id/textViewMarqueVehicule"
+            android:layout_width="300dp"
+            android:layout_height="41dp"
+            android:layout_marginLeft="20dp"
             android:text="Marque de votre véhicule :"
-            android:textSize="30sp" />
+            android:textSize="18sp" />
 
         <Spinner
             android:id="@+id/spinnerMarque"
-            android:layout_width="wrap_content"
+            android:layout_width="300dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="20px"
-            android:layout_marginTop="350px"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="50dp"
             android:entries="@array/car_array" />
-
-        <Button
-            android:id="@+id/button2"
-            android:layout_width="156dp"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="300px"
-            android:layout_marginTop="1500px"
-            android:text="Ensuite" />
 
         <TextView
             android:id="@+id/textView2"
-            android:layout_width="wrap_content"
+            android:layout_width="300dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="20px"
-            android:layout_marginTop="700px"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="200dp"
             android:text="Année du véhicule :"
-            android:textSize="30sp" />
+            android:textSize="18sp" />
 
         <TextView
             android:id="@+id/textView4"
-            android:layout_width="wrap_content"
+            android:layout_width="300dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="20px"
-            android:layout_marginTop="1150px"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="400dp"
             android:text="Type de moteur"
-            android:textSize="30sp" />
+            android:textSize="18sp" />
 
         <Spinner
-            android:id="@+id/spinner2"
-            android:layout_width="match_parent"
+            android:id="@+id/spinnerMoteur"
+            android:layout_width="300dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="20px"
-            android:layout_marginTop="1300px"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="450dp"
             android:entries="@array/Moteur" />
 
         <Spinner
-            android:id="@+id/spinner"
-            android:layout_width="match_parent"
+            android:id="@+id/spinnerAnnee"
+            android:layout_width="300dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="20px"
-            android:layout_marginTop="800px" />
-
-        <TextView
-            android:id="@+id/textView5"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="20px"
-            android:layout_marginTop="500px"
-            android:text="Type commercial :"
-            android:textSize="30sp" />
-
-        <Spinner
-            android:id="@+id/spinner3"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="20px"
-            android:layout_marginTop="600px" />
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="250dp" />
 
         <TextView
             android:id="@+id/textView6"
-            android:layout_width="wrap_content"
+            android:layout_width="300dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="20px"
-            android:layout_marginTop="900px"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="300dp"
             android:text="Carburant :"
-            android:textSize="30sp" />
+            android:textSize="18sp" />
 
         <Spinner
             android:id="@+id/spinnerCarburant"
-            android:layout_width="match_parent"
+            android:layout_width="300dp"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="20px"
-            android:layout_marginTop="1000px"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="350dp"
             android:entries="@array/Carburant" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="300dp"
+            android:layout_height="38dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="100dp"
+            android:text="Type commercial :"
+            android:textSize="18sp" />
+
+        <Spinner
+            android:id="@+id/spinnerTypeCommercial"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="150dp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="500dp"
+            android:text="Ensuite" />
 
 
     </FrameLayout>
