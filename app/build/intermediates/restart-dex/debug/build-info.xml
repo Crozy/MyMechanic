@@ -6,26 +6,23 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1497014882760"
+    timestamp="1497686026474"
     token="-1442702785134145979"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="374" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="9" />
+        duration="0" />
     <task
         name="verifier"
-        duration="55" />
+        duration="0" />
 
-    <artifact
-        location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
     <artifact
         location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
@@ -48,6 +45,9 @@
         location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
+        location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
         location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
@@ -62,11 +62,8 @@
 
     <build
         build-mode="FULL"
-        timestamp="1497014882760"
+        timestamp="1497686026474"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
         <artifact
             location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
@@ -87,6 +84,9 @@
             type="SPLIT" />
         <artifact
             location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="D:\Android\MyMechanic\app\build\intermediates\split-apk\debug\slices\slice_4.apk"

@@ -183,7 +183,7 @@
     <color name="cast_libraries_material_featurehighlight_outer_highlight_default_color">#2196F3</color>
     <color name="cast_libraries_material_featurehighlight_text_body_color">#FFFFFFFF</color>
     <color name="cast_libraries_material_featurehighlight_text_header_color">#FFFFFFFF</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#ff4081</color>
     <color name="colorPrimary">#0c2ff2</color>
     <color name="colorPrimaryDark">#102eeb</color>
     <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>

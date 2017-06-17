@@ -5,8 +5,26 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.example.paul.mymechanic.Home"
-    app:layout_collapseParallaxMultiplier="0.0">
+    app:layout_collapseParallaxMultiplier="0.0"
+    tools:context="com.example.paul.mymechanic.Home">
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="240dp"
+        android:layout_height="131dp"
+        android:layout_marginLeft="200px"
+        android:layout_marginTop="800px"
+        android:paddingBottom="50px"
+        android:text="Recherche de garage" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="233dp"
+        android:layout_height="200px"
+        android:layout_marginLeft="250px"
+        android:layout_marginTop="600px"
+        android:text="MyMechanic"
+        android:textSize="36sp" />
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -20,23 +38,5 @@
             app:popupTheme="@style/AppTheme.PopupOverlay" />
 
     </android.support.design.widget.AppBarLayout>
-
-    <Button
-        android:id="@+id/button4"
-        android:layout_width="240dp"
-        android:layout_height="131dp"
-        android:layout_marginLeft="200px"
-        android:layout_marginTop="800px"
-        android:paddingBottom="50px"
-        android:text="Recherche de garage" />
-
-    <TextView
-        android:text="MyMechanic"
-        android:id="@+id/textView"
-        android:layout_marginTop="600px"
-        android:layout_marginLeft="250px"
-        android:layout_width="233dp"
-        android:layout_height="200px"
-        android:textSize="36sp" />
 
 </android.support.design.widget.CoordinatorLayout>

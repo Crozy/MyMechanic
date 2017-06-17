@@ -1,6 +1,7 @@
 package com.example.paul.mymechanic;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 /**
  * Created by Leuck on 29/05/2017.
@@ -17,6 +18,13 @@ public class SMS {
     static String carburant;
     static String TypeMoteur;
     static String Probleme;
+
+    static void ViderListeVoyant(){
+
+        for(int i = 0; i < Voyant.size(); i++) {
+            Voyant.remove(i);
+        }
+    }
 
     static void AjoutVoyant(String VoyantAllume){
         Voyant.add(VoyantAllume);
