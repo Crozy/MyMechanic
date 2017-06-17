@@ -3,6 +3,24 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\9557ba2bb7caee243ea731147f376da93026009b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb604659eb22d29c21cf96d84d61e81c7fb2ce00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\6f5546352e3b77d1787af48283b7226d14e78943\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddbe7b670d3ffab90ee4ffa6bf478f1b624de688\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\Android\MyMechanic\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +30,426 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\c3b9bc18199bf03f5e594c90aa5bfc8b468ca324\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ce3faa4affb2cf8f179f08137e2a952b428b730\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\138473f4cf29fc26de03c60cdeae16a932df9235\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6c361b761fb5a8a7b0d25b3f60ba5aeca4c67c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\6b9ba0948d38f1e8f6966c34b752c70f0e97dd18\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_249fe951620d5d5ed67b82fde781abb490324ace\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\c10566349766c4e7f115885ff2ce2a5e2e6ddc74\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f856c1583e75c09dc742324a49052984cc1e3c78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\5dd9c80e81b13a44c85925ea070a143c07482c14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff720cb738bf7941cfc6e03dc51eeda6949acd7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\33bad05981f844466ca7cd477ea370bd0b09f926\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1b628dc095bed75d33a2da9f87e02b7e012a10a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\1dcd4d0f2bba821e2902f47f05e8b50794277608\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2355744bb81bf272103a3e47ba67fdadd5341ba1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\a6f96e8432685d3f7eead9de69595f5038945deb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3890aecd2887d37724c0d5faa0cc97d28c918ef4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\71c12bb47d5ce22f92a8a82c0f15f60fbecd2537\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e28fa4d96f1ddd216699b70bc4bdb4058321a51d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\3c52c543f00271a59f7f2bb175cc940b3d8376a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2115938a93489f9b0dbf3576ff1f4ba08c6abb2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\f5d15136777abbe72afbc9e3a287baa72136611e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea6b819b29d35d292339945eb855f49bcbd59c84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\3665d82587d6db774bfdd7158ac2f4f98a785117\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a37a59ea249af1e6e17c8a6fdb7d33cab1c0c55b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\7c2bc496a1a9ee30cc7458d71e54260e822a5200\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59757534306a21be1d3ae2316d91cf2b9b54e0ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\74263313e6667390ef7cb9d4713360557e240db5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68c1a489b1e83c76cc737c6a5c0343e33d98743e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\c2652a1b20ae979490e3ff2dc6f528cee4308185\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_433f212cb72304c9218edf063a054b99030e46d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\5d110894fd36f7556690849769ff6bb597ef63a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92fc7c4615fc18cdeed20cfd67b0bd871c69ec6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\636abcd332376ac7933b39ccf79127c8835a7d92\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8582d7c143c5f76366c7cb0e4f8abb457ed25a55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\24a25d5595ffe58a3d324e31147072a971e72852\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9e222b3c65b1322457484dc162156036039cc2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\906d38383362d6489d798aea07f9b62442d08bb7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d61877de45886f9f0658d7566fef57d89ab756c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\472f019db8de5c42c66076d14bdb0b685b1954ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca013becd0493ecb7e744fcd8ef20f40a37cd56a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\Android\MyMechanic\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="19eee0cd2dd7ee624a9273575e4df922e0742ad9">
+        sha1="bf2ca44152080b1871a7d79b08dedd72ffd6158a">
         <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_004b706ca1e4e1f4a8da0a386773218d8ebe8ffa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\3606132d022b5c297315dddac0d843e7c02eae4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90a6450470131c70c66a699c6f3921dec27d4b60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\abde79ecfaa126473ac141da46e22377ae85e196\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e83f5ccf3d4483a0d650204d804cf3b0e4bebb55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\3fbb924ceac595b4fb72d8eb36d5fa9d0cd1d2c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_250d98780f05cb26ec3767e8b24854f96513f380\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\22c4e66c381f5e2b8b17f02d94852b16feb4d26e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21d88ddaf223bcb278f08b3a2a43eab6b19e03d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\fc16e10647fdb9847425942f80872ee14a2a14c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_206da55d172a8838eedf298a4c8abf4aa866e37a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\08d5940e1f7a1060d310593b5e1efecf6a9b6b07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a52e05d416f08630cfe030e1e817be4239b8daa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\c41849c5bcd618f13ac4809034394e5f9eb168a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_faf227d9667b9171ee8288517cd3685467f4c73b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\10eb1d900927a1c85e4385ab63c515f9a2b1008a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5b71904521cb54f511a4d63cf318971139821e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\a6dba20ec1e1bc854429d6b0357a4afee1a40fef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9445e074506228c02cbecf8f6ae6405adf5597c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\417816c5429fb02ea5a6471a2b55f91028ddd1e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd773c6e8e3c6986473f25d6d1711a8b16043548\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\2f2a748c81d5d307f2d5e9cc0d6632077a3a04c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34d63125390170a0ccab720b24ae2e92083e284c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\9054a36815fa72b2adf1594a47f2eb880a919c8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e135b9790db2a54fec3890d8513ab05da0f7da7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\4d1631a34c824c853aa05529915eed29a8513d8b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2248508b9aaf6c94624c744406a284356298ed29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\bce583d4a77ba08ab21203f31fbdeb69f111670e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c851b2c512b7be6b60cff4b32e598396f1fcf735\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\d101fafd5e2d274ab7ba636f785090206918a481\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d1e898a60f2855b75b08e4207d7ec6c73bd28c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\c288e1bf813e3310047b424c99d2fe76529dd7a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2730f4ec7f1d691befd86109f02560f8ca75b0fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\23b9ab951c9d6913720e9ee04508afe6c6ecb278\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3303d94700ce1911f24ed7099f72f25ed15d55f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\7da9e2c8c2e50d4dd15c6f15ebf9d0bec9966d1d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ffbd816702b3a3b4e42b6821da2920aeefab8d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\18d438339463e8d9f9aac5bd2ffd9bb138acc705\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f787dd68ce2846c0e2a681a82da4c2e23e46d0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\ec9d4dc15154b92fd8ba74a6ad900709b2652aaa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_332fcd6d7370ed52016d38db17799eb8d9f7b43e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\4790291a330f260394eea830d0844b0dc3a8051e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9160e6061557eb60cb311a9cd29fdc44dbbd61c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\f85556aae0f906d88697193376bbacf6b31e475e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d242fb6c769d41b0fb829359df0ef932af47bc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\7364fccfd2ef968af65502d1e9697256fb0a256c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea90a1036efe256160042e38f784970c4b8dad6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\56bba1c4f9ead6070145aee2ee6af6311323479a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08516387fe2e2a80e9e74d00c73315e1c1327022\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\14ff9b1bf651145b5ff9a51b792880d4b96848dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f86579b008c24cde4652694e48832217199015b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leuck\.android\build-cache\900fdecf3e27dec12e822ad82511fd4426909402\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="D:\Android\MyMechanic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8ebd5e9a73443c068ffcf1322953c9f9dfe7d4e\classes.dex" />
     </item>
 
 </items>

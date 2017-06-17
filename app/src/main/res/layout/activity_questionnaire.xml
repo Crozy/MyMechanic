@@ -11,8 +11,8 @@
     <FrameLayout
         android:layout_width="395dp"
         android:layout_height="643dp"
-        tools:layout_editor_absoluteX="7dp"
-        tools:layout_editor_absoluteY="7dp">
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="8dp">
 
         <TextView
             android:id="@+id/textViewMarqueVehicule"
@@ -56,13 +56,6 @@
             android:layout_marginTop="450dp"
             android:entries="@array/Moteur" />
 
-        <Spinner
-            android:id="@+id/spinnerAnnee"
-            android:layout_width="300dp"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="20dp"
-            android:layout_marginTop="250dp" />
-
         <TextView
             android:id="@+id/textView6"
             android:layout_width="300dp"
@@ -89,13 +82,6 @@
             android:text="Type commercial :"
             android:textSize="18sp" />
 
-        <Spinner
-            android:id="@+id/spinnerTypeCommercial"
-            android:layout_width="300dp"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="20dp"
-            android:layout_marginTop="150dp" />
-
         <Button
             android:id="@+id/button2"
             android:layout_width="300dp"
@@ -103,6 +89,24 @@
             android:layout_marginLeft="20dp"
             android:layout_marginTop="500dp"
             android:text="Ensuite" />
+
+        <Spinner
+            android:id="@+id/spinnerTypeCommercial"
+            android:layout_width="300dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="150dp"
+            android:background="?android:attr/colorForeground"
+            android:visibility="visible" />
+
+        <Spinner
+            android:id="@+id/spinnerAnnee"
+            android:layout_width="300dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="250dp"
+            android:background="@color/cast_expanded_controller_background_color"
+            android:visibility="visible" />
 
 
     </FrameLayout>

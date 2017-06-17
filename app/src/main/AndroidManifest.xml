@@ -35,15 +35,15 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/google_maps_key" />
 
-        <activity
-            android:name=".MapsActivity"
-            android:label="@string/title_activity_maps">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        <!--<activity-->
+            <!--android:name=".MapsActivity"-->
+            <!--android:label="@string/title_activity_maps">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
         <!-- <activity -->
         <!-- android:name="fr.iut.garage.app.GarageSearchActivity" -->
         <!-- android:label="@string/title_activity_garage_search" -->
@@ -54,7 +54,7 @@
         <!-- android:theme="@style/AppTheme.NoActionBar" /> -->
         <activity
             android:name=".Home"
-            android:label="@string/title_activity_home"
+            android:label="MyMechanic"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -70,33 +70,36 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity
-            android:name=".Questionnaire"
-            android:label="@string/title_activity_home"
-            android:theme="@style/AppTheme.NoActionBar">
-            >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        <!--<activity-->
+            <!--android:name=".Questionnaire"-->
+            <!--android:label="@string/title_activity_home"-->
+            <!--android:theme="@style/AppTheme.NoActionBar">-->
+            <!--&gt;-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
         <activity android:name=".Questionnaire2" />
         <activity
             android:name=".Questionnaire3"
             android:label="@string/title_activity_questionnaire3"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name=".inscription"
-            android:label="@string/title_activity_inscription"
-            android:theme="@style/AppTheme.NoActionBar">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        <!--<activity-->
+            <!--android:name=".inscription"-->
+            <!--android:label="@string/title_activity_inscription"-->
+            <!--android:theme="@style/AppTheme.NoActionBar">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
         <activity android:name=".Contact_Garage"></activity>
+        <activity android:name=".MapsActivity"></activity>
+        <activity android:name=".Questionnaire"></activity>
+        <activity android:name=".inscription"></activity>
     </application>
 
 </manifest>

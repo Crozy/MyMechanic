@@ -36,6 +36,8 @@ public class Questionnaire2 extends AppCompatActivity {
 
                 //SMS PanneSMS = new SMS();
 
+                SMS.ViderListeVoyant();
+
                 final CheckBox checkBox = (CheckBox) findViewById(R.id.checkBox1);
                 if (checkBox.isChecked()) {
                     //checkBox.setChecked(false);
@@ -50,49 +52,49 @@ public class Questionnaire2 extends AppCompatActivity {
                     SMS.AjoutVoyant("Contrôle de traction");
                 }
 
-                final CheckBox checkBox3 = (CheckBox) findViewById(R.id.checkBox2);
+                final CheckBox checkBox3 = (CheckBox) findViewById(R.id.checkBox3);
                 if (checkBox3.isChecked()) {
                     //checkBox.setChecked(false);
                     //Log.d("SiOuiChekBox1", "Cocher");
                     SMS.AjoutVoyant("Niveau mini de carburant");
                 }
 
-                final CheckBox checkBox4 = (CheckBox) findViewById(R.id.checkBox2);
+                final CheckBox checkBox4 = (CheckBox) findViewById(R.id.checkBox4);
                 if (checkBox4.isChecked()) {
                     //checkBox.setChecked(false);
                     //Log.d("SiOuiChekBox1", "Cocher");
                     SMS.AjoutVoyant("Antibrouillard avant");
                 }
 
-                final CheckBox checkBox5 = (CheckBox) findViewById(R.id.checkBox2);
+                final CheckBox checkBox5 = (CheckBox) findViewById(R.id.checkBox5);
                 if (checkBox5.isChecked()) {
                     //checkBox.setChecked(false);
                     //Log.d("SiOuiChekBox1", "Cocher");
                     SMS.AjoutVoyant("Dépollution du moteur");
                 }
 
-                final CheckBox checkBox6 = (CheckBox) findViewById(R.id.checkBox2);
+                final CheckBox checkBox6 = (CheckBox) findViewById(R.id.checkBox6);
                 if (checkBox6.isChecked()) {
                     //checkBox.setChecked(false);
                     //Log.d("SiOuiChekBox1", "Cocher");
                     SMS.AjoutVoyant("Feux de détresse");
                 }
 
-                final CheckBox checkBox7 = (CheckBox) findViewById(R.id.checkBox2);
+                final CheckBox checkBox7 = (CheckBox) findViewById(R.id.checkBox7);
                 if (checkBox7.isChecked()) {
                     //checkBox.setChecked(false);
                     //Log.d("SiOuiChekBox1", "Cocher");
                     SMS.AjoutVoyant("Défaillance des freins");
                 }
 
-                final CheckBox checkBox8 = (CheckBox) findViewById(R.id.checkBox2);
+                final CheckBox checkBox8 = (CheckBox) findViewById(R.id.checkBox8);
                 if (checkBox8.isChecked()) {
                     //checkBox.setChecked(false);
                     //Log.d("SiOuiChekBox1", "Cocher");
                     SMS.AjoutVoyant("Pression d'huile moteur");
                 }
 
-                final CheckBox checkBox9 = (CheckBox) findViewById(R.id.checkBox2);
+                final CheckBox checkBox9 = (CheckBox) findViewById(R.id.checkBox9);
                 if (checkBox9.isChecked()) {
                     //checkBox.setChecked(false);
                     //Log.d("SiOuiChekBox1", "Cocher");
