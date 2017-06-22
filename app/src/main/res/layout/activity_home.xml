@@ -12,17 +12,17 @@
         android:id="@+id/button4"
         android:layout_width="240dp"
         android:layout_height="131dp"
-        android:layout_marginLeft="200px"
-        android:layout_marginTop="800px"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="210dp"
         android:paddingBottom="50px"
-        android:text="Recherche de garage" />
+        android:text="Recherche de garage depuis la carte" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="233dp"
-        android:layout_height="200px"
-        android:layout_marginLeft="250px"
-        android:layout_marginTop="600px"
+        android:layout_height="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="150dp"
         android:text="MyMechanic"
         android:textSize="36sp" />
 
@@ -38,5 +38,13 @@
             app:popupTheme="@style/AppTheme.PopupOverlay" />
 
     </android.support.design.widget.AppBarLayout>
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="240dp"
+        android:layout_height="131dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="400dp"
+        android:text="Recherche de garage depuis une liste" />
 
 </android.support.design.widget.CoordinatorLayout>

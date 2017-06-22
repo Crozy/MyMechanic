@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:2:1-105:12
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:2:1-110:12
 	package
 		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml
@@ -17,8 +17,24 @@ uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Leuck\.android\build-cache\14ff9b1bf651145b5ff9a51b792880d4b96848dd\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\Leuck\.android\build-cache\9054a36815fa72b2adf1594a47f2eb880a919c8a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\Leuck\.android\build-cache\ec9d4dc15154b92fd8ba74a6ad900709b2652aaa\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.0] C:\Users\Leuck\.android\build-cache\abde79ecfaa126473ac141da46e22377ae85e196\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\Leuck\.android\build-cache\a6dba20ec1e1bc854429d6b0357a4afee1a40fef\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\Leuck\.android\build-cache\c288e1bf813e3310047b424c99d2fe76529dd7a0\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\Leuck\.android\build-cache\24a25d5595ffe58a3d324e31147072a971e72852\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Leuck\.android\build-cache\472f019db8de5c42c66076d14bdb0b685b1954ca\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Leuck\.android\build-cache\7da9e2c8c2e50d4dd15c6f15ebf9d0bec9966d1d\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Leuck\.android\build-cache\5d110894fd36f7556690849769ff6bb597ef63a0\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\Leuck\.android\build-cache\5dd9c80e81b13a44c85925ea070a143c07482c14\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Leuck\.android\build-cache\9557ba2bb7caee243ea731147f376da93026009b\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:12:22-64
 application
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:13:5-103:19
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:14:5-108:19
 MERGED from [com.google.android.gms:play-services:10.2.0] C:\Users\Leuck\.android\build-cache\4e841bf2e9d0af2012fcdba99f823f01434d0137\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Leuck\.android\build-cache\14ff9b1bf651145b5ff9a51b792880d4b96848dd\output\AndroidManifest.xml:23:5-27:19
 MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\Leuck\.android\build-cache\9054a36815fa72b2adf1594a47f2eb880a919c8a\output\AndroidManifest.xml:26:5-19
@@ -74,74 +90,78 @@ MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Leuck\.andr
 MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Leuck\.android\build-cache\10a142ab0d62c04f1108db497bf510f53b62d53e\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Leuck\.android\build-cache\eacf4121d1af37a0cd55f965166edf49da5375af\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:17:9-41
 	android:supportsRtl
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:18:9-35
 	android:allowBackup
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:15:9-35
 	android:icon
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:15:9-43
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:16:9-43
 	android:theme
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:19:9-40
 meta-data#com.google.android.geo.API_KEY
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:34:9-36:55
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:35:9-37:55
 	android:value
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:36:13-52
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:37:13-52
 	android:name
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:35:13-58
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:36:13-58
 activity#com.example.paul.mymechanic.Home
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:55:9-64:20
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:57:9-66:20
 	android:label
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:57:13-39
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:59:13-39
 	android:theme
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:58:13-56
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:60:13-56
 	android:name
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:56:13-33
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:58:13-33
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:59:13-63:29
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:61:13-65:29
 action#android.intent.action.MAIN
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:60:17-69
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:62:17-69
 	android:name
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:60:25-66
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:62:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:62:17-77
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:64:17-77
 	android:name
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:62:27-74
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:64:27-74
 meta-data#com.google.android.gms.version
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:69:9-71:69
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:71:9-73:69
 MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Leuck\.android\build-cache\71c12bb47d5ce22f92a8a82c0f15f60fbecd2537\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:71:13-66
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:73:13-66
 	android:name
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:70:13-58
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:72:13-58
 activity#com.example.paul.mymechanic.Questionnaire2
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:84:9-52
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:87:9-52
 	android:name
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:84:19-49
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:87:19-49
 activity#com.example.paul.mymechanic.Questionnaire3
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:85:9-88:59
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:88:9-91:59
 	android:label
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:87:13-66
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:90:13-66
 	android:theme
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:88:13-56
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:91:13-56
 	android:name
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:86:13-43
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:89:13-43
 activity#com.example.paul.mymechanic.Contact_Garage
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:99:9-61
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:103:9-52
 	android:name
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:99:19-49
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:103:19-49
 activity#com.example.paul.mymechanic.MapsActivity
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:100:9-59
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:104:9-50
 	android:name
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:100:19-47
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:104:19-47
 activity#com.example.paul.mymechanic.Questionnaire
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:101:9-60
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:105:9-51
 	android:name
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:101:19-48
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:105:19-48
 activity#com.example.paul.mymechanic.inscription
-ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:102:9-58
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:106:9-49
 	android:name
-		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:102:19-46
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:106:19-46
+activity#com.example.paul.mymechanic.ListeGarage
+ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:107:9-58
+	android:name
+		ADDED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml:107:19-46
 uses-sdk
 INJECTED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.android.gms:play-services:10.2.0] C:\Users\Leuck\.android\build-cache\4e841bf2e9d0af2012fcdba99f823f01434d0137\output\AndroidManifest.xml:4:5-43
@@ -216,21 +236,6 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Le
 	android:minSdkVersion
 		INJECTED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\MyMechanic\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Leuck\.android\build-cache\14ff9b1bf651145b5ff9a51b792880d4b96848dd\output\AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\Leuck\.android\build-cache\9054a36815fa72b2adf1594a47f2eb880a919c8a\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\Leuck\.android\build-cache\ec9d4dc15154b92fd8ba74a6ad900709b2652aaa\output\AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-crash:10.2.0] C:\Users\Leuck\.android\build-cache\abde79ecfaa126473ac141da46e22377ae85e196\output\AndroidManifest.xml:18:5-66
-MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\Leuck\.android\build-cache\a6dba20ec1e1bc854429d6b0357a4afee1a40fef\output\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\Leuck\.android\build-cache\c288e1bf813e3310047b424c99d2fe76529dd7a0\output\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\Leuck\.android\build-cache\24a25d5595ffe58a3d324e31147072a971e72852\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\Leuck\.android\build-cache\472f019db8de5c42c66076d14bdb0b685b1954ca\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\Leuck\.android\build-cache\7da9e2c8c2e50d4dd15c6f15ebf9d0bec9966d1d\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\Leuck\.android\build-cache\5d110894fd36f7556690849769ff6bb597ef63a0\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\Leuck\.android\build-cache\5dd9c80e81b13a44c85925ea070a143c07482c14\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Leuck\.android\build-cache\9557ba2bb7caee243ea731147f376da93026009b\output\AndroidManifest.xml:20:5-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Leuck\.android\build-cache\14ff9b1bf651145b5ff9a51b792880d4b96848dd\output\AndroidManifest.xml:19:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\Leuck\.android\build-cache\14ff9b1bf651145b5ff9a51b792880d4b96848dd\output\AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\Leuck\.android\build-cache\9054a36815fa72b2adf1594a47f2eb880a919c8a\output\AndroidManifest.xml:21:5-78
