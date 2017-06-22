@@ -15,8 +15,6 @@
     -->
     <!-- <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-
-    <!-- Include required permissions for Google Mobile Ads to run -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Optional permission for Analytics to run. -->
     <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Permissions required for GCM -->
@@ -125,6 +123,7 @@
         <activity android:name="com.example.paul.mymechanic.MapsActivity" />
         <activity android:name="com.example.paul.mymechanic.Questionnaire" />
         <activity android:name="com.example.paul.mymechanic.inscription" />
+        <activity android:name="com.example.paul.mymechanic.ListeGarage" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
