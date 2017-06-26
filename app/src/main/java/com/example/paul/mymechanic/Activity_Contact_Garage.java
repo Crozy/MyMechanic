@@ -5,11 +5,8 @@ import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 
-import com.google.android.gms.maps.model.Marker;
-
-public class Contact_Garage extends AppCompatActivity {
+public class Activity_Contact_Garage extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,7 +20,7 @@ public class Contact_Garage extends AppCompatActivity {
     }
 
     public void QuestionPanne(View View) {
-        Intent intent = new Intent(Contact_Garage.this, Questionnaire.class);
+        Intent intent = new Intent(Activity_Contact_Garage.this, Questionnaire.class);
         startActivity(intent);
     }
 

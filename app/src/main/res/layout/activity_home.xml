@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     app:layout_collapseParallaxMultiplier="0.0"
-    tools:context="com.example.paul.mymechanic.Home">
+    tools:context="com.example.paul.mymechanic.Activity_Home">
 
     <Button
         android:id="@+id/button4"

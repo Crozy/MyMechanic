@@ -55,7 +55,7 @@
         <!-- android:label="@string/title_activity_main" -->
         <!-- android:theme="@style/AppTheme.NoActionBar" /> -->
         <activity
-            android:name=".Home"
+            android:name=".Activity_Home"
             android:label="MyMechanic"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -100,11 +100,11 @@
         <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
         <!-- </intent-filter> -->
         <!-- </activity> -->
-        <activity android:name=".Contact_Garage" />
+        <activity android:name=".Activity_Contact_Garage" />
         <activity android:name=".MapsActivity" />
         <activity android:name=".Questionnaire" />
         <activity android:name=".inscription" />
-        <activity android:name=".ListeGarage"></activity>
+        <activity android:name=".Activity_GarageList"></activity>
     </application>
 
 </manifest>

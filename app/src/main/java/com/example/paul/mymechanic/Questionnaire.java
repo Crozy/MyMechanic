@@ -5,14 +5,13 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
-import android.webkit.ConsoleMessage;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.Spinner;
-import android.widget.TextView;
 
-import java.io.Console;
+import com.example.paul.mymechanic.DTO.SMS_DTO;
+
 import java.util.ArrayList;
 
 public class Questionnaire extends AppCompatActivity {
@@ -32,19 +31,19 @@ public class Questionnaire extends AppCompatActivity {
             public void onClick(View v) {
 
                 final Spinner MarqueDuVehicule = (Spinner) findViewById(R.id.spinnerMarque);
-                SMS.AjoutMarque(MarqueDuVehicule.getSelectedItem().toString());
+                SMS_DTO.AjoutMarque(MarqueDuVehicule.getSelectedItem().toString());
 
                 final Spinner TypeCommercial = (Spinner) findViewById(R.id.spinnerTypeCommercial);
-                SMS.AjoutTypeCommercial(TypeCommercial.getSelectedItem().toString());
+                SMS_DTO.AjoutTypeCommercial(TypeCommercial.getSelectedItem().toString());
 
                 final Spinner AnneeVehicule = (Spinner) findViewById(R.id.spinnerAnnee);
-                SMS.AjoutAnnée(AnneeVehicule.getSelectedItem().toString());
+                SMS_DTO.AjoutAnnée(AnneeVehicule.getSelectedItem().toString());
 
                 final Spinner Carburant = (Spinner) findViewById(R.id.spinnerCarburant);
-                SMS.AjoutCarburant(Carburant.getSelectedItem().toString());
+                SMS_DTO.AjoutCarburant(Carburant.getSelectedItem().toString());
 
                 final Spinner TypeMoteur = (Spinner) findViewById(R.id.spinnerMoteur);
-                SMS.AjoutTypeMoteur(TypeMoteur.getSelectedItem().toString());
+                SMS_DTO.AjoutTypeMoteur(TypeMoteur.getSelectedItem().toString());
 
                 Intent intent = new Intent(Questionnaire.this, Questionnaire2.class);
                 startActivity(intent);
@@ -58,7 +57,6 @@ public class Questionnaire extends AppCompatActivity {
 
         //Liste Année
         Spinner spinner = (Spinner) findViewById(R.id.spinnerAnnee);
-        // Create an ArrayAdapter using the string array and a default spinner layout
 
         ArrayList anneeList = new ArrayList();
 
@@ -68,9 +66,7 @@ public class Questionnaire extends AppCompatActivity {
 
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_spinner_item, anneeList);
 
-        // Specify the layout to use when the list of choices appears
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        // Apply the adapter to the spinner
         spinner.setAdapter(adapter);
 
 
@@ -94,14 +90,12 @@ public class Questionnaire extends AppCompatActivity {
                switch(LaMarque) {
 
                    case "Seat":
-                       //ArrayList TypeCommercialList = new ArrayList();
                        TypeCommercialList.add("Ibiza");
                        TypeCommercialList.add("Leon");
                        Log.d("Message", "Seat");
                        break;
 
                    case "Volkswagen":
-                       //ArrayList TypeCommercialList = new ArrayList();
                        TypeCommercialList.add("Polo");
                        TypeCommercialList.add("Golf");
                        Log.d("Message", "Volkswagen");
@@ -109,7 +103,6 @@ public class Questionnaire extends AppCompatActivity {
                    default:
                        TypeCommercialList.add("Selectionner une marque");
                }
-                   //System.out.print("TEST");
 
                    ArrayAdapter<String> adapterTypeCommercial = new ArrayAdapter<String>(getApplicationContext(), android.R.layout.simple_spinner_item, TypeCommercialList);
                    adapterTypeCommercial.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);

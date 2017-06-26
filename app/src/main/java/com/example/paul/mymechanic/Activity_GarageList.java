@@ -7,6 +7,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
+import com.example.paul.mymechanic.DTO.Garage_DTO;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -15,10 +17,10 @@ import retrofit.RestAdapter;
 import retrofit.RetrofitError;
 import retrofit.client.Response;
 
-public class ListeGarage extends AppCompatActivity {
+public class Activity_GarageList extends AppCompatActivity {
 
     private ListView mListView;
-    ArrayList<String> ListeGarage = new ArrayList<String>();
+    private ArrayList<String> ListeGarage = new ArrayList<String>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,53 +29,53 @@ public class ListeGarage extends AppCompatActivity {
 
         mListView = (ListView) findViewById(R.id.listView);
 
-
         appelAsynchrone();
     }
 
     /////////////////////////////////////////////PARTIE API//////////////////////////////////////////////:
 
-    private void appelAsynchrone() {
-        AppelAPI githubService = new RestAdapter.Builder()
-                .setEndpoint(AppelAPI.ENDPOINT)
-                .build()
-                .create(AppelAPI.class);
+    public void appelAsynchrone() {
 
-        githubService.listReposAsync(new Callback<List<Garage>>() {
+        AppelAPIService githubService = new RestAdapter.Builder()
+                .setEndpoint(AppelAPIService.ENDPOINT)
+                .build()
+                .create(AppelAPIService.class);
+
+        githubService.listReposAsync(new Callback<List<Garage_DTO>>() {
             @Override
-            public void success(List<Garage> repos, Response response) {
+            public void success(List<Garage_DTO> repos, Response response) {
                 afficherRepos(repos);
             }
 
             @Override
             public void failure(RetrofitError error) {
-                Log.d("MapsActivity", "Probleme");
+                Log.d("Error", "Probleme");
             }
+
+
         });
     }
 
-    public void afficherRepos(List<Garage> repos) {
-        String test = "";
+    public void afficherRepos(List<Garage_DTO> repos) {
 
-        for (Garage repo: repos)
+        for (Garage_DTO repo: repos)
         {
-           // test = test +" "+ repo.getNom();
             ListeGarage.add(repo.getNom());
-
         }
 
 
-        //Toast.makeText(this, "nombre de dépots : " + repos.size(), Toast.LENGTH_SHORT).show();
-        //Toast.makeText(this, "Liste des dépots : " + test, Toast.LENGTH_SHORT).show();
-
-
-        final ArrayAdapter<String> adapter = new ArrayAdapter<String>(ListeGarage.this,
+        final ArrayAdapter<String> adapter = new ArrayAdapter<String>(Activity_GarageList.this,
                 android.R.layout.simple_list_item_1, ListeGarage);
         mListView.setAdapter(adapter);
-
     }
+
 
     public void notAllowed() {
         Toast.makeText(this, "Impossible d'effectuer cette action", Toast.LENGTH_SHORT).show();
+    }
+
+    public ArrayList<String> ListeDesGarages(){
+
+        return ListeGarage;
     }
 }
