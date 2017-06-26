@@ -1,7 +1,0 @@
-#Mon Jun 26 11:31:01 CEST 2017
-base.0=D\:\\Android\\MyMechanic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fac7a674e1118ba76233556978d12d34c5302e3e
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=D\:\\Android\\MyMechanic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_004b706ca1e4e1f4a8da0a386773218d8ebe8ffa\\classes.dex
-base.1=D\:\\Android\\MyMechanic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_004b706ca1e4e1f4a8da0a386773218d8ebe8ffa
-file.0=D\:\\Android\\MyMechanic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fac7a674e1118ba76233556978d12d34c5302e3e\\classes.dex
