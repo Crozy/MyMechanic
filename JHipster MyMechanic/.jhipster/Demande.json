@@ -1,0 +1,20 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "utilisateur",
+            "fieldType": "String",
+            "fieldValidateRules": []
+        },
+        {
+            "fieldName": "demande",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20170622121533",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "demande",
+    "pagination": "no"
+}

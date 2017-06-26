@@ -1,0 +1,35 @@
+
+<div>
+    <h2><span data-translate="myMechanicApp.garage.detail.title">Garage</span> {{vm.garage.id}}</h2>
+    <hr>
+    <jhi-alert-error></jhi-alert-error>
+    <dl class="dl-horizontal jh-entity-details">
+        <dt><span data-translate="myMechanicApp.garage.nom">Nom</span></dt>
+        <dd>
+            <span>{{vm.garage.nom}}</span>
+        </dd>
+        <dt><span data-translate="myMechanicApp.garage.adresse">Adresse</span></dt>
+        <dd>
+            <span>{{vm.garage.adresse}}</span>
+        </dd>
+        <dt><span data-translate="myMechanicApp.garage.longitude">Longitude</span></dt>
+        <dd>
+            <span>{{vm.garage.longitude}}</span>
+        </dd>
+        <dt><span data-translate="myMechanicApp.garage.latitude">Latitude</span></dt>
+        <dd>
+            <span>{{vm.garage.latitude}}</span>
+        </dd>
+    </dl>
+
+    <button type="submit"
+            ui-sref="{{ vm.previousState }}"
+            class="btn btn-info">
+        <span class="glyphicon glyphicon-arrow-left"></span>&nbsp;<span data-translate="entity.action.back"> Back</span>
+    </button>
+
+    <button type="button" ui-sref="garage-detail.edit({id:vm.garage.id})" class="btn btn-primary">
+        <span class="glyphicon glyphicon-pencil"></span>
+        <span class="hidden-sm-down" data-translate="entity.action.edit"> Edit</span>
+    </button>
+</div>

@@ -1,0 +1,62 @@
+<div>
+    <h2 data-translate="myMechanicApp.garage.home.title">Garages</h2>
+    <jhi-alert></jhi-alert>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-4 no-padding-left">
+                <button class="btn btn-primary" ui-sref="garage.new" >
+                    <span class="glyphicon glyphicon-plus"></span>
+                    <span  data-translate="myMechanicApp.garage.home.createLabel">
+                        Create new Garage
+                    </span>
+                </button>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <div class="table-responsive">
+        <table class="jh-table table table-striped">
+            <thead>
+                <tr>
+                    <th><span data-translate="global.field.id">ID</span></th>
+                    <th><span data-translate="myMechanicApp.garage.nom">Nom</span></th>
+                    <th><span data-translate="myMechanicApp.garage.adresse">Adresse</span></th>
+                    <th><span data-translate="myMechanicApp.garage.longitude">Longitude</span></th>
+                    <th><span data-translate="myMechanicApp.garage.latitude">Latitude</span></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="garage in vm.garages track by garage.id">
+                    <td><a ui-sref="garage-detail({id:garage.id})">{{garage.id}}</a></td>
+                    <td>{{garage.nom}}</td>
+                    <td>{{garage.adresse}}</td>
+                    <td>{{garage.longitude}}</td>
+                    <td>{{garage.latitude}}</td>
+                    <td class="text-right">
+                        <div class="btn-group flex-btn-group-container">
+                            <button type="submit"
+                                    ui-sref="garage-detail({id:garage.id})"
+                                    class="btn btn-info btn-sm">
+                                <span class="glyphicon glyphicon-eye-open"></span>
+                                <span class="hidden-sm-down" data-translate="entity.action.view"></span>
+                            </button>
+                            <button type="submit"
+                                    ui-sref="garage.edit({id:garage.id})"
+                                    class="btn btn-primary btn-sm">
+                                <span class="glyphicon glyphicon-pencil"></span>
+                                <span class="hidden-sm-down" data-translate="entity.action.edit"></span>
+                            </button>
+                            <button type="submit"
+                                    ui-sref="garage.delete({id:garage.id})"
+                                    class="btn btn-danger btn-sm">
+                                <span class="glyphicon glyphicon-remove-circle"></span>
+                                <span class="hidden-sm-down" data-translate="entity.action.delete"></span>
+                            </button>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,24 @@
+{
+    "myMechanicApp": {
+        "garage" : {
+            "home": {
+                "title": "Garages",
+                "createLabel": "Créer un nouveau Garage",
+                "createOrEditLabel": "Créer ou éditer un Garage"
+            },
+            "created": "Un nouveau Garage a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Garage avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Garage avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Garage {{ id }} ?"
+            },
+            "detail": {
+                "title": "Garage"
+            },
+            "nom": "Nom",
+            "adresse": "Adresse",
+            "longitude": "Longitude",
+            "latitude": "Latitude"
+        }
+    }
+}

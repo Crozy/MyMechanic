@@ -1,0 +1,28 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "nom",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "adresse",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "longitude",
+            "fieldType": "Float",
+            "fieldValidateRules": []
+        },
+        {
+            "fieldName": "latitude",
+            "fieldType": "Float"
+        }
+    ],
+    "changelogDate": "20170622115000",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "garage",
+    "pagination": "no"
+}
