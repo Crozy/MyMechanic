@@ -74,7 +74,7 @@
         <!-- android:label="@string/title_activity_main" -->
         <!-- android:theme="@style/AppTheme.NoActionBar" /> -->
         <activity
-            android:name="com.example.paul.mymechanic.Home"
+            android:name="com.example.paul.mymechanic.Activity_Home"
             android:label="MyMechanic"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
@@ -119,11 +119,11 @@
         <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
         <!-- </intent-filter> -->
         <!-- </activity> -->
-        <activity android:name="com.example.paul.mymechanic.Contact_Garage" />
+        <activity android:name="com.example.paul.mymechanic.Activity_Contact_Garage" />
         <activity android:name="com.example.paul.mymechanic.MapsActivity" />
         <activity android:name="com.example.paul.mymechanic.Questionnaire" />
         <activity android:name="com.example.paul.mymechanic.inscription" />
-        <activity android:name="com.example.paul.mymechanic.ListeGarage" />
+        <activity android:name="com.example.paul.mymechanic.Activity_GarageList" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

@@ -1,14 +1,14 @@
-package com.example.paul.mymechanic;
+package com.example.paul.mymechanic.DTO;
 
 /**
  * Created by Leuck on 17/06/2017.
  */
 
-public class Garage {
+public class Garage_DTO {
 
     private int id;
     private String nom;
-    private String lieu;
+    private String adresse;
 
     public int getId() {
         return id;
@@ -27,10 +27,10 @@ public class Garage {
     }
 
     public String getLieu() {
-        return lieu;
+        return adresse;
     }
 
     public void setLieu(String lieu) {
-        this.lieu = lieu;
+        this.adresse = lieu;
     }
 }

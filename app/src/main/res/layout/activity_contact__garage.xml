@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.paul.mymechanic.Contact_Garage">
+    tools:context="com.example.paul.mymechanic.Activity_Contact_Garage">
 
     <FrameLayout
         android:layout_width="395dp"

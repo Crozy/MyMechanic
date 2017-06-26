@@ -16,12 +16,12 @@
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\85394a3bc923bb697c777a1903607e168e02391b\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\Leuck\\.android\\build-cache\\1e838253932db0a36ef0bc291cca894e29f348bb\\output\\res\\color\\design_error.xml"
-    },
-    {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
         "source": "C:\\Users\\Leuck\\.android\\build-cache\\85394a3bc923bb697c777a1903607e168e02391b\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Leuck\\.android\\build-cache\\1e838253932db0a36ef0bc291cca894e29f348bb\\output\\res\\color\\design_error.xml"
     },
     {
         "merged": "D:\\Android\\MyMechanic\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
